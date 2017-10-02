@@ -2,6 +2,11 @@
 
 namespace RM.Terminal
 {
+    public static class LoggedAccount
+    {
+        public static Account Value { get; set; }
+    }
+
     public class Account
     {
         public Account(string email, string password, string name, string surname, string photo)

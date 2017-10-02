@@ -12,9 +12,9 @@ namespace RM.Terminal
         public string SessionName { get; set; } = Session.SessionName;
         public string PlayersSigned { get; set; } = $"{Session.Parts.ToString()}/{Session.MaxParts.ToString()} players signed in";
 
-        public bool IsLoginActivePage { get; set; }
-        public bool IsRegisterActivePage { get; set; }
-        public bool IsOneCourseActivePage { get; set; }
+        public bool IsLoginActivePage { get; set; } = false;
+        public bool IsRegisterActivePage { get; set; } = true;
+        public bool IsOneCourseActivePage { get; set; } = true;
 
         #endregion
 

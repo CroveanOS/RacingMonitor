@@ -24,22 +24,31 @@ namespace RM.Terminal
             GenerateButtons();
         }
 
-        private Task KartClick(object parameter)
+        private async Task KartClick(object parameter)
         {
-            throw new NotImplementedException();
+            var btn = parameter as Button;
+
+            if (btn == null)
+                return;
+
+            btn.IsEnabled = false;
+            btn.Content = LoggedAccount.Value.Name;
+
         }
 
         private void GenerateButtons()
         {
             foreach (Kart kart in KartList.KList)
             {
-                Button btn = new Button
+                var btn = new Button
                 {
                     Style = (Style)Application.Current.FindResource("KartButton"),
                     Content = $"#{kart.ID}",
                     Tag = kart.ID,
                     Command = KartClickCommand
                 };
+
+                btn.CommandParameter = btn;
 
                 Buttons.Add(btn);
             }

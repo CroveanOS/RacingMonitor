@@ -9,8 +9,8 @@
 
     <Grid VerticalAlignment="Top" HorizontalAlignment="Left">
         <StackPanel Orientation="Horizontal">
-            <TextBox Width="320" Margin="0,0,30,0" Tag="Your name here..."/>
-            <Button Style="{StaticResource ArrowButton}" Width="125" Content="Log in  "/>
+            <TextBox Text="{Binding Name}" Width="320" Margin="0,0,30,0" Tag="Your name here..."/>
+            <Button Style="{StaticResource ArrowButton}" Width="125" Content="Log in  " Command="{Binding LoginCommand}"/>
         </StackPanel>
     </Grid>
 </core:BasePage>

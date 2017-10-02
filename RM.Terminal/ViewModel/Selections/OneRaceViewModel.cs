@@ -13,7 +13,7 @@ namespace RM.Terminal
         /// <summary>
         /// The Email of the user
         /// </summary>
-        public string Email { get; set; }
+        public string Name { get; set; }
 
         #endregion Public Properties
 
@@ -34,7 +34,7 @@ namespace RM.Terminal
         public OneRaceViewModel()
         {
             // Create commands
-            LoginCommand = new RelayParameterizedCommand(async (parameter) => await Login(parameter));
+            LoginCommand = new RelayCommand(async () => await Login());
         }
 
         #endregion Constructor
@@ -43,10 +43,9 @@ namespace RM.Terminal
         /// <summary>
         /// Attempt to log the user in
         /// </summary>
-        /// <param name="parameter">The <see cref="SecureString"/> passed in from the view for the user password</param>
-        /// <returns></returns>
-        public async Task Login(object parameter)
+        public async Task Login()
         {
+            LoggedAccount.Value = new Account("-", "-", Name, "", "");
             IoC.Application.SideMenuVisible = true;
         }
     }
