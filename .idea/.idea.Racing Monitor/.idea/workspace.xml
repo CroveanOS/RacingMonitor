@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6118852-24d4-44db-8c4f-af75db63dd70" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LoginViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RM.Terminal/ViewModel/Selections/LoginViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+              <folding>
+                <marker date="1499953403224" expanded="false" signature="6:109" ph="..." />
+                <marker date="1499953403224" expanded="true" signature="132:1261" ph="{...}" />
+                <marker date="1499953403224" expanded="true" signature="182:1259" ph="{...}" />
+                <marker date="1499953403224" expanded="true" signature="197:382" ph="Public Properties" />
+                <marker date="1499953403224" expanded="true" signature="232:302" ph="/// The Email of the user ... " />
+                <marker date="1499953403224" expanded="true" signature="392:567" ph="Commands" />
+                <marker date="1499953403224" expanded="true" signature="418:487" ph="/// The command to login ... " />
+                <marker date="1499953403224" expanded="true" signature="577:892" ph="Constructor" />
+                <marker date="1499953403224" expanded="true" signature="606:674" ph="/// Default constructor ... " />
+                <marker date="1499953403224" expanded="true" signature="706:860" ph="{...}" />
+                <marker date="1499953403224" expanded="true" signature="903:1131" ph="/// Attempt to log the user in ... " />
+                <marker date="1499953403224" expanded="true" signature="1181:1253" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IdleViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RM.Terminal/ViewModel/Pages/IdleViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+              <folding>
+                <marker date="1500277542661" expanded="false" signature="6:100" ph="..." />
+                <marker date="1500277542661" expanded="true" signature="123:1876" ph="{...}" />
+                <marker date="1500277542661" expanded="true" signature="172:1874" ph="{...}" />
+                <marker date="1500277542661" expanded="true" signature="187:458" ph="Private Methods" />
+                <marker date="1500277542661" expanded="true" signature="220:317" ph="/// Set color of indicator for TCP Server connection ... " />
+                <marker date="1500277542661" expanded="true" signature="468:1413" ph="Public Properties" />
+                <marker date="1500277542661" expanded="true" signature="503:576" ph="/// Command for start button ... " />
+                <marker date="1500277542661" expanded="true" signature="637:727" ph="/// Is the client connected to the TCP Server ... " />
+                <marker date="1500277542661" expanded="true" signature="788:885" ph="/// Set color of indicator for TCP Server connection ... " />
+                <marker date="1500277542661" expanded="true" signature="938:1392" ph="{...}" />
+                <marker date="1500277542661" expanded="true" signature="1007:1382" ph="{...}" />
+                <marker date="1500277542661" expanded="true" signature="1423:1746" ph="Constructor" />
+                <marker date="1500277542661" expanded="true" signature="1452:1520" ph="/// Default constructor ... " />
+                <marker date="1500277542661" expanded="true" signature="1551:1726" ph="{...}" />
+                <marker date="1500277542661" expanded="true" signature="1786:1868" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RM.Server/ViewModel/MainViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+              <folding>
+                <marker date="1499335691263" expanded="false" signature="6:75" ph="..." />
+                <marker date="1499335691263" expanded="true" signature="96:580" ph="{...}" />
+                <marker date="1499335691263" expanded="true" signature="145:578" ph="{...}" />
+                <marker date="1499335691263" expanded="true" signature="522:572" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TCP.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RM.Server/Controls/TCP.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="225" column="16" lean-forward="false" selection-start-line="225" selection-start-column="16" selection-end-line="225" selection-end-column="16" />
+              <folding>
+                <marker date="1499335664684" expanded="false" signature="6:279" ph="..." />
+                <marker date="1499335664684" expanded="true" signature="309:9451" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="334:9449" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="617:1070" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="643:890" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="929:1060" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="1108:1934" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="1190:1757" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="1702:1743" ph="/* ); ... */" />
+                <marker date="1499335664684" expanded="true" signature="1790:1924" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="1944:2013" ph="/// Recieves TCP Message ... " />
+                <marker date="1499335664684" expanded="true" signature="2057:2255" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="2173:2245" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="2301:3279" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="2374:2620" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="2659:2949" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="2982:3269" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="3323:3462" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="3502:4327" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="3528:3969" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="4001:4317" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="4386:4875" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="4412:4700" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="4733:4865" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="4910:5087" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="5098:5225" ph="/// Get direction of the received data. ... " />
+                <marker date="1499335664684" expanded="true" signature="5282:8467" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="5327:5524" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="5541:8457" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="5641:8443" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="6159:6506" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="6692:6888" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="7107:7299" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="7486:7787" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="8032:8222" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="8585:8810" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="8637:8800" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="8687:8786" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="8911:9130" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="8961:9120" ph="{...}" />
+                <marker date="1499335664684" expanded="true" signature="9009:9106" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasePage.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RM.Core/ViewModel/BasePage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="27" column="71" lean-forward="false" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="71" />
+              <folding>
+                <marker date="1499951298517" expanded="false" signature="6:235" ph="..." />
+                <marker date="1499951298517" expanded="true" signature="254:4758" ph="{...}" />
+                <marker date="1499951298517" expanded="true" signature="261:356" ph="/// The base page for all pages to gain base functionality ... " />
+                <marker date="1499951298517" expanded="true" signature="396:3746" ph="{...}" />
+                <marker date="1499951298517" expanded="true" signature="411:1191" ph="Public Properties" />
+                <marker date="1499951298517" expanded="true" signature="446:542" ph="/// The animation that is played on page first load ... " />
+                <marker date="1499951298517" expanded="true" signature="654:746" ph="/// The animation that is played of page unload ... " />
+                <marker date="1499951298517" expanded="true" signature="858:928" ph="/// The time of animation ... " />
+                <marker date="1499951298517" expanded="true" signature="994:1102" ph="/// A flag to indicate if this page should animate out on load. ... " />
+                <marker date="1499951298517" expanded="true" signature="1201:1760" ph="Constructor" />
+                <marker date="1499951298517" expanded="true" signature="1230:1298" ph="/// Default constructor ... " />
+                <marker date="1499951298517" expanded="true" signature="1324:1740" ph="{...}" />
+                <marker date="1499951298517" expanded="true" signature="1770:3740" ph="Animation Load / Unload" />
+                <marker date="1499951298517" expanded="true" signature="1811:1994" ph="/// Once the page is loaded, perform any required animation ... " />
+                <marker date="1499951298517" expanded="true" signature="2076:2389" ph="{...}" />
+                <marker date="1499951298517" expanded="true" signature="2399:2500" ph="/// Animates the page in ... " />
+                <marker date="1499951298517" expanded="true" signature="2543:2956" ph="{...}" />
+                <marker date="1499951298517" expanded="true" signature="2723:2946" ph="{...}" />
+                <marker date="1499951298517" expanded="true" signature="2966:3068" ph="/// Animates the page out ... " />
+                <marker date="1499951298517" expanded="true" signature="3112:3719" ph="{...}" />
+                <marker date="1499951298517" expanded="true" signature="3296:3709" ph="{...}" />
+                <marker date="1499951298517" expanded="true" signature="3752:3875" ph="/// A base page with added ViewModel support ... " />
+                <marker date="1499951298517" expanded="true" signature="3956:4756" ph="{...}" />
+                <marker date="1499951298517" expanded="true" signature="3971:4129" ph="Private Members" />
+                <marker date="1499951298517" expanded="true" signature="4004:4078" ph="/// The ViewModel of the page ... " />
+                <marker date="1499951298517" expanded="true" signature="4139:4534" ph="Public Properties" />
+                <marker date="1499951298517" expanded="true" signature="4174:4248" ph="/// The ViewModel of the page ... " />
+                <marker date="1499951298517" expanded="true" signature="4276:4514" ph="{...}" />
+                <marker date="1499951298517" expanded="true" signature="4332:4504" ph="{...}" />
+                <marker date="1499951298517" expanded="true" signature="4544:4750" ph="Constructor" />
+                <marker date="1499951298517" expanded="true" signature="4573:4641" ph="/// Default constructor ... " />
+                <marker date="1499951298517" expanded="true" signature="4676:4730" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrameworkElementAnimationAttachedProperties.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RM.Core/AttachedProperties/FrameworkElementAnimationAttachedProperties.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+              <folding>
+                <marker date="1499939244363" expanded="false" signature="6:137" ph="..." />
+                <marker date="1499939244363" expanded="true" signature="156:3387" ph="{...}" />
+                <marker date="1499939244363" expanded="true" signature="163:368" ph="/// A base class to run any animation method when a boolean is set to true ... " />
+                <marker date="1499939244363" expanded="true" signature="524:2233" ph="{...}" />
+                <marker date="1499939244363" expanded="true" signature="539:786" ph="Public Properties" />
+                <marker date="1499939244363" expanded="true" signature="574:696" ph="/// A flag indicating if this is the first time this property has been loaded ... " />
+                <marker date="1499939244363" expanded="true" signature="870:1905" ph="{...}" />
+                <marker date="1499939244363" expanded="true" signature="1207:1787" ph="{...}" />
+                <marker date="1499939244363" expanded="true" signature="1395:1666" ph="{...}" />
+                <marker date="1499939244363" expanded="true" signature="1915:2142" ph="/// The animation method that is fired when the value changes ... " />
+                <marker date="1499939244363" expanded="true" signature="2239:2390" ph="/// Animates a framework element sliding it in from the right on show ... " />
+                <marker date="1499939244363" expanded="true" signature="2506:2849" ph="{...}" />
+                <marker date="1499939244363" expanded="true" signature="2600:2843" ph="{...}" />
+                <marker date="1499939244363" expanded="true" signature="2968:3384" ph="{...}" />
+                <marker date="1499939244363" expanded="true" signature="3062:3378" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoursePage.xaml.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RM.Terminal/Pages/CoursePage.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+              <folding>
+                <marker date="1500277414919" expanded="false" signature="6:137" ph="..." />
+                <marker date="1500277414919" expanded="true" signature="160:4212" ph="{...}" />
+                <marker date="1500277414919" expanded="true" signature="167:245" ph="/// Interaction logic for CoursePage.xaml ... " />
+                <marker date="1500277414919" expanded="true" signature="309:4210" ph="{...}" />
+                <marker date="1500277414919" expanded="true" signature="377:455" ph="{...}" />
+                <marker date="1500277414919" expanded="true" signature="465:531" ph="/// Main initializer. ... " />
+                <marker date="1500277414919" expanded="true" signature="559:1148" ph="{...}" />
+                <marker date="1500277414919" expanded="true" signature="1158:1234" ph="/// Calls checks each 1 second. ... " />
+                <marker date="1500277414919" expanded="true" signature="1311:1363" ph="{...}" />
+                <marker date="1500277414919" expanded="true" signature="1373:1454" ph="/// Get the needed data from server. ... " />
+                <marker date="1500277414919" expanded="true" signature="1495:1543" ph="{...}" />
+                <marker date="1500277414919" expanded="true" signature="1553:1619" ph="/// Connection check. ... " />
+                <marker date="1500277414919" expanded="true" signature="1666:1863" ph="{...}" />
+                <marker date="1500277414919" expanded="true" signature="1939:2095" ph="{...}" />
+                <marker date="1500277414919" expanded="true" signature="2018:2085" ph="{...}" />
+                <marker date="1500277414919" expanded="true" signature="2105:2185" ph="/// Set the participants combo box. ... " />
+                <marker date="1500277414919" expanded="true" signature="2226:2368" ph="{...}" />
+                <marker date="1500277414919" expanded="true" signature="2249:2358" ph="/* for (int i = 1; i &lt;= 15; i++) ... */" />
+                <marker date="1500277414919" expanded="true" signature="2378:2447" ph="/// Recieves TCP Message ... " />
+                <marker date="1500277414919" expanded="true" signature="2492:2596" ph="{...}" />
+                <marker date="1500277414919" expanded="true" signature="2527:2586" ph="{...}" />
+                <marker date="1500277414919" expanded="true" signature="2672:3197" ph="{...}" />
+                <marker date="1500277414919" expanded="true" signature="2695:3187" ph="/* SessionBox.Tag = string.IsNullOrEmpty(SessionBox.Text) ? &quot;2&quot; : &quot;1&quot;; ... */" />
+                <marker date="1500277414919" expanded="true" signature="3231:3877" ph="{...}" />
+                <marker date="1500277414919" expanded="true" signature="3254:3867" ph="/* while (true) ... */" />
+                <marker date="1500277414919" expanded="true" signature="3946:4100" ph="{...}" />
+                <marker date="1500277414919" expanded="true" signature="3995:4089" ph="/* AdminLogin adminLoginScreen = new AdminLogin(); ... */" />
+                <marker date="1500277414919" expanded="true" signature="4171:4204" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginPage.xaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RM.Terminal/Pages/Selections/LoginPage.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+              <folding>
+                <marker date="1500036194180" expanded="true" signature="0:2030" ph="&lt;&lt;Grid VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;auto&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;&#10;        &lt;TextBox x:Name=&quot;LoginText&quot;&#10;                 Style=&quot;{StaticResource EmailTextBox}&quot;&#10;                 Grid.Row=&quot;0&quot;&#10;                 Width=&quot;500&quot; &#10;                 Tag=&quot;Your login here...&quot; &#10;                 Margin=&quot;0,0,0,35&quot;/&gt;&#10;        &#10;        &lt;PasswordBox x:Name=&quot;PasswordText&quot; &#10;                     Grid.Row=&quot;1&quot;&#10;                     Width=&quot;500&quot; &#10;                     Tag=&quot;Your password here...&quot; &#10;                     Margin=&quot;0,0,0,35&quot;/&gt;&#10;        &#10;        &lt;Label Grid.Row=&quot;3&quot;&#10;               Style=&quot;{StaticResource SmallLabel}&quot;&#10;               Content=&quot;*incorrect login or password, try again&quot; &#10;               Foreground=&quot;{StaticResource MainColorBrush}&quot;&#10;               HorizontalAlignment=&quot;Left&quot;&#10;               VerticalAlignment=&quot;Top&quot;/&gt;&#10;        &#10;        &lt;Button x:Name=&quot;LoginBtn&quot; &#10;                Grid.Row=&quot;3&quot;&#10;                Width=&quot;125&quot;&#10;                Height=&quot;35&quot;&#10;                HorizontalAlignment=&quot;Right&quot;&#10;                Content=&quot;Log in  &quot;&#10;                Command=&quot;{Binding LoginCommand}&quot;&#10;                CommandParameter=&quot;{Binding SecurePassword, ElementName=PasswordText}&quot;&#10;                Style=&quot;{StaticResource ArrowButton}&quot; /&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1500036194180" expanded="true" signature="511:2013" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;auto&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;TextBox x:Name=&quot;LoginText&quot;&#10;                 Style=&quot;{StaticResource EmailTextBox}&quot;&#10;                 Grid.Row=&quot;0&quot;&#10;                 Width=&quot;500&quot; &#10;                 Tag=&quot;Your login here...&quot; &#10;                 Margin=&quot;0,0,0,35&quot;/&gt; &lt;PasswordBox x:Name=&quot;PasswordText&quot; &#10;                     Grid.Row=&quot;1&quot;&#10;                     Width=&quot;500&quot; &#10;                     Tag=&quot;Your password here...&quot; &#10;                     Margin=&quot;0,0,0,35&quot;/&gt; &lt;Label Grid.Row=&quot;3&quot;&#10;               Style=&quot;{StaticResource SmallLabel}&quot;&#10;               Content=&quot;*incorrect login or password, try again&quot; &#10;               Foreground=&quot;{StaticResource MainColorBrush}&quot;&#10;               HorizontalAlignment=&quot;Left&quot;&#10;               VerticalAlignment=&quot;Top&quot;/&gt; &lt;Button x:Name=&quot;LoginBtn&quot; &#10;                Grid.Row=&quot;3&quot;&#10;                Width=&quot;125&quot;&#10;                Height=&quot;35&quot;&#10;                HorizontalAlignment=&quot;Right&quot;&#10;                Content=&quot;Log in  &quot;&#10;                Command=&quot;{Binding LoginCommand}&quot;&#10;                CommandParameter=&quot;{Binding SecurePassword, ElementName=PasswordText}&quot;&#10;                Style=&quot;{StaticResource ArrowButton}&quot; /&gt;.../&gt;" />
+                <marker date="1500036194180" expanded="true" signature="577:749" ph="&lt;&lt;RowDefinition Height=&quot;*&quot;/&gt; &lt;RowDefinition Height=&quot;*&quot;/&gt; &lt;RowDefinition Height=&quot;*&quot;/&gt;.../&gt;" />
+                <marker date="1500036194180" expanded="true" signature="758:861" ph="&lt;&lt;ColumnDefinition Width=&quot;auto&quot;/&gt;.../&gt;" />
+                <marker date="1500036194180" expanded="true" signature="871:1093" ph="&lt;.../&gt;" />
+                <marker date="1500036194180" expanded="true" signature="1111:1305" ph="&lt;.../&gt;" />
+                <marker date="1500036194180" expanded="true" signature="1323:1602" ph="&lt;.../&gt;" />
+                <marker date="1500036194180" expanded="true" signature="1620:2001" ph="&lt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoursePage.xaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RM.Terminal/Pages/CoursePage.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+              <folding>
+                <marker date="1499953566925" expanded="true" signature="0:1710" ph="&lt;&lt;Grid&gt;&#10;        &lt;TextBlock Style=&quot;{StaticResource TitleCornerTextBlock}&quot; Margin=&quot;45,40,0,0&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                &lt;Run Text=&quot;RACING&quot; Foreground=&quot;{StaticResource FirstLogoColorBrush}&quot;/&gt;&lt;Run Text=&quot;MONITOR&quot; Foreground=&quot;{StaticResource SecondLogoColorBrush}&quot;/&gt;&#10;        &lt;/TextBlock&gt;&#10;        &lt;Grid Width=&quot;auto&quot; Height=&quot;160&quot; Margin=&quot;{Binding MainGridMargin}&quot; VerticalAlignment=&quot;Center&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBox Name=&quot;CourseNameBox&quot; Text=&quot;{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot; Tag=&quot;Course name...&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;0,0,30,0&quot;/&gt;&#10;                &lt;Button Content=&quot;GO!  &quot; Command=&quot;{Binding StartCommand}&quot; Style=&quot;{StaticResource ArrowButton}&quot; IsEnabled=&quot;{Binding IsCourseNameWritten}&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;left&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;Slider x:Name=&quot;ParticipantsSlider&quot; Value=&quot;{Binding Participants}&quot; Maximum=&quot;{Binding MaximumParticipants}&quot; Minimum=&quot;1&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Bottom&quot; Width=&quot;475&quot;/&gt;&#10;        &lt;/Grid&gt;&#10;        &#10;    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1499953566925" expanded="true" signature="532:1693" ph="&lt;&lt;TextBlock Style=&quot;{StaticResource TitleCornerTextBlock}&quot; Margin=&quot;45,40,0,0&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                &lt;Run Text=&quot;RACING&quot; Foreground=&quot;{StaticResource FirstLogoColorBrush}&quot;/&gt;&lt;Run Text=&quot;MONITOR&quot; Foreground=&quot;{StaticResource SecondLogoColorBrush}&quot;/&gt;&#10;        &lt;/TextBlock&gt; &lt;Grid Width=&quot;auto&quot; Height=&quot;160&quot; Margin=&quot;{Binding MainGridMargin}&quot; VerticalAlignment=&quot;Center&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBox Name=&quot;CourseNameBox&quot; Text=&quot;{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot; Tag=&quot;Course name...&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;0,0,30,0&quot;/&gt;&#10;                &lt;Button Content=&quot;GO!  &quot; Command=&quot;{Binding StartCommand}&quot; Style=&quot;{StaticResource ArrowButton}&quot; IsEnabled=&quot;{Binding IsCourseNameWritten}&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;left&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;Slider x:Name=&quot;ParticipantsSlider&quot; Value=&quot;{Binding Participants}&quot; Maximum=&quot;{Binding MaximumParticipants}&quot; Minimum=&quot;1&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Bottom&quot; Width=&quot;475&quot;/&gt;&#10;        &lt;/Grid&gt;.../&gt;" />
+                <marker date="1499953566925" expanded="true" signature="547:854" ph="&lt;&lt;Run Text=&quot;RACING&quot; Foreground=&quot;{StaticResource FirstLogoColorBrush}&quot;/&gt;&lt;Run Text=&quot;MONITOR&quot; Foreground=&quot;{StaticResource SecondLogoColorBrush}&quot;/&gt;.../&gt;" />
+                <marker date="1499953566925" expanded="true" signature="863:1672" ph="&lt;&lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBox Name=&quot;CourseNameBox&quot; Text=&quot;{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot; Tag=&quot;Course name...&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;0,0,30,0&quot;/&gt;&#10;                &lt;Button Content=&quot;GO!  &quot; Command=&quot;{Binding StartCommand}&quot; Style=&quot;{StaticResource ArrowButton}&quot; IsEnabled=&quot;{Binding IsCourseNameWritten}&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;left&quot;/&gt;&#10;            &lt;/StackPanel&gt; &lt;Slider x:Name=&quot;ParticipantsSlider&quot; Value=&quot;{Binding Participants}&quot; Maximum=&quot;{Binding MaximumParticipants}&quot; Minimum=&quot;1&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Bottom&quot; Width=&quot;475&quot;/&gt;.../&gt;" />
+                <marker date="1499953566925" expanded="true" signature="998:1455" ph="&lt;&lt;TextBox Name=&quot;CourseNameBox&quot; Text=&quot;{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot; Tag=&quot;Course name...&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;0,0,30,0&quot;/&gt; &lt;Button Content=&quot;GO!  &quot; Command=&quot;{Binding StartCommand}&quot; Style=&quot;{StaticResource ArrowButton}&quot; IsEnabled=&quot;{Binding IsCourseNameWritten}&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;left&quot;/&gt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RM.Terminal/ViewModel/ViewModelLocator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RM.Terminal/Pages/CoursePage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RM.Terminal/Pages/CoursePage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RM.Core/ViewModel/BasePage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RM.Core/AttachedProperties/FrameworkElementAnimationAttachedProperties.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RM.Server/ViewModel/MainViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RM.Server/Styles/ComboBox.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RM.Terminal/ViewModel/Pages/IdleViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RM.Terminal/ViewModel/Selections/LoginViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RM.Core/Controls/Global.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RM.Terminal/Pages/Selections/LoginPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RM.Server/Controls/TCP.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RM.Core/RM.Core.csproj" />
+        <option value="$PROJECT_DIR$/RM.Server/RM.Server.csproj" />
+        <option value="$PROJECT_DIR$/RM.Terminal/ViewModel/Selections/LoginViewModel.cs" />
+        <option value="$PROJECT_DIR$/RM.Terminal/Pages/Selections/LoginPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/RM.Terminal/Pages/CoursePage.xaml.cs" />
+        <option value="$PROJECT_DIR$/RM.Terminal/Pages/CoursePage.xaml" />
+        <option value="$PROJECT_DIR$/RM.Terminal/Pages/IdlePage.xaml.cs" />
+        <option value="$PROJECT_DIR$/RM.Terminal/Pages/Selections/LoginPage.xaml" />
+        <option value="$PROJECT_DIR$/RM.Server/Styles/ComboBox.xaml" />
+        <option value="$PROJECT_DIR$/RM.Core/Controls/Global.xaml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Racing Monitor (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.RM.Server">
+    <configuration default="false" name="RM.Server" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RM.Server/RM.Server.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.2" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RM.Server/bin/Debug/RM.Server.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RM.Server/bin/Debug" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RM.Terminal/RM.Terminal.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.2" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RM.Terminal/bin/Debug/RM.Terminal.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RM.Terminal/bin/Debug" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.RM.Server" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.RM.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6118852-24d4-44db-8c4f-af75db63dd70" name="Default" comment="" />
+      <created>1499774412043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499774412043</updated>
+      <workItem from="1499774415249" duration="1203000" />
+      <workItem from="1499776567810" duration="492000" />
+      <workItem from="1499777478909" duration="639000" />
+      <workItem from="1499945867104" duration="2222000" />
+      <workItem from="1500277790286" duration="662000" />
+      <workItem from="1500450343877" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5326000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13645834" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2079314" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26041666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/ViewModel/Selections/LoginViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <marker date="1499953403224" expanded="false" signature="6:109" ph="..." />
+            <marker date="1499953403224" expanded="true" signature="132:1261" ph="{...}" />
+            <marker date="1499953403224" expanded="true" signature="182:1259" ph="{...}" />
+            <marker date="1499953403224" expanded="true" signature="197:382" ph="Public Properties" />
+            <marker date="1499953403224" expanded="true" signature="232:302" ph="/// The Email of the user ... " />
+            <marker date="1499953403224" expanded="true" signature="392:567" ph="Commands" />
+            <marker date="1499953403224" expanded="true" signature="418:487" ph="/// The command to login ... " />
+            <marker date="1499953403224" expanded="true" signature="577:892" ph="Constructor" />
+            <marker date="1499953403224" expanded="true" signature="606:674" ph="/// Default constructor ... " />
+            <marker date="1499953403224" expanded="true" signature="706:860" ph="{...}" />
+            <marker date="1499953403224" expanded="true" signature="903:1131" ph="/// Attempt to log the user in ... " />
+            <marker date="1499953403224" expanded="true" signature="1181:1253" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/Pages/CoursePage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <marker date="1500277414919" expanded="false" signature="6:137" ph="..." />
+            <marker date="1500277414919" expanded="true" signature="160:4212" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="167:245" ph="/// Interaction logic for CoursePage.xaml ... " />
+            <marker date="1500277414919" expanded="true" signature="309:4210" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="377:455" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="465:531" ph="/// Main initializer. ... " />
+            <marker date="1500277414919" expanded="true" signature="559:1148" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="1158:1234" ph="/// Calls checks each 1 second. ... " />
+            <marker date="1500277414919" expanded="true" signature="1311:1363" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="1373:1454" ph="/// Get the needed data from server. ... " />
+            <marker date="1500277414919" expanded="true" signature="1495:1543" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="1553:1619" ph="/// Connection check. ... " />
+            <marker date="1500277414919" expanded="true" signature="1666:1863" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="1939:2095" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2018:2085" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2105:2185" ph="/// Set the participants combo box. ... " />
+            <marker date="1500277414919" expanded="true" signature="2226:2368" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2249:2358" ph="/* for (int i = 1; i &lt;= 15; i++) ... */" />
+            <marker date="1500277414919" expanded="true" signature="2378:2447" ph="/// Recieves TCP Message ... " />
+            <marker date="1500277414919" expanded="true" signature="2492:2596" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2527:2586" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2672:3197" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2695:3187" ph="/* SessionBox.Tag = string.IsNullOrEmpty(SessionBox.Text) ? &quot;2&quot; : &quot;1&quot;; ... */" />
+            <marker date="1500277414919" expanded="true" signature="3231:3877" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="3254:3867" ph="/* while (true) ... */" />
+            <marker date="1500277414919" expanded="true" signature="3946:4100" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="3995:4089" ph="/* AdminLogin adminLoginScreen = new AdminLogin(); ... */" />
+            <marker date="1500277414919" expanded="true" signature="4171:4204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/Pages/CoursePage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding>
+            <marker date="1499953566925" expanded="true" signature="0:1710" ph="&lt;&lt;Grid&gt;&#10;        &lt;TextBlock Style=&quot;{StaticResource TitleCornerTextBlock}&quot; Margin=&quot;45,40,0,0&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                &lt;Run Text=&quot;RACING&quot; Foreground=&quot;{StaticResource FirstLogoColorBrush}&quot;/&gt;&lt;Run Text=&quot;MONITOR&quot; Foreground=&quot;{StaticResource SecondLogoColorBrush}&quot;/&gt;&#10;        &lt;/TextBlock&gt;&#10;        &lt;Grid Width=&quot;auto&quot; Height=&quot;160&quot; Margin=&quot;{Binding MainGridMargin}&quot; VerticalAlignment=&quot;Center&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBox Name=&quot;CourseNameBox&quot; Text=&quot;{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot; Tag=&quot;Course name...&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;0,0,30,0&quot;/&gt;&#10;                &lt;Button Content=&quot;GO!  &quot; Command=&quot;{Binding StartCommand}&quot; Style=&quot;{StaticResource ArrowButton}&quot; IsEnabled=&quot;{Binding IsCourseNameWritten}&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;left&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;Slider x:Name=&quot;ParticipantsSlider&quot; Value=&quot;{Binding Participants}&quot; Maximum=&quot;{Binding MaximumParticipants}&quot; Minimum=&quot;1&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Bottom&quot; Width=&quot;475&quot;/&gt;&#10;        &lt;/Grid&gt;&#10;        &#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1499953566925" expanded="true" signature="532:1693" ph="&lt;&lt;TextBlock Style=&quot;{StaticResource TitleCornerTextBlock}&quot; Margin=&quot;45,40,0,0&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                &lt;Run Text=&quot;RACING&quot; Foreground=&quot;{StaticResource FirstLogoColorBrush}&quot;/&gt;&lt;Run Text=&quot;MONITOR&quot; Foreground=&quot;{StaticResource SecondLogoColorBrush}&quot;/&gt;&#10;        &lt;/TextBlock&gt; &lt;Grid Width=&quot;auto&quot; Height=&quot;160&quot; Margin=&quot;{Binding MainGridMargin}&quot; VerticalAlignment=&quot;Center&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBox Name=&quot;CourseNameBox&quot; Text=&quot;{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot; Tag=&quot;Course name...&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;0,0,30,0&quot;/&gt;&#10;                &lt;Button Content=&quot;GO!  &quot; Command=&quot;{Binding StartCommand}&quot; Style=&quot;{StaticResource ArrowButton}&quot; IsEnabled=&quot;{Binding IsCourseNameWritten}&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;left&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;Slider x:Name=&quot;ParticipantsSlider&quot; Value=&quot;{Binding Participants}&quot; Maximum=&quot;{Binding MaximumParticipants}&quot; Minimum=&quot;1&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Bottom&quot; Width=&quot;475&quot;/&gt;&#10;        &lt;/Grid&gt;.../&gt;" />
+            <marker date="1499953566925" expanded="true" signature="547:854" ph="&lt;&lt;Run Text=&quot;RACING&quot; Foreground=&quot;{StaticResource FirstLogoColorBrush}&quot;/&gt;&lt;Run Text=&quot;MONITOR&quot; Foreground=&quot;{StaticResource SecondLogoColorBrush}&quot;/&gt;.../&gt;" />
+            <marker date="1499953566925" expanded="true" signature="863:1672" ph="&lt;&lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBox Name=&quot;CourseNameBox&quot; Text=&quot;{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot; Tag=&quot;Course name...&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;0,0,30,0&quot;/&gt;&#10;                &lt;Button Content=&quot;GO!  &quot; Command=&quot;{Binding StartCommand}&quot; Style=&quot;{StaticResource ArrowButton}&quot; IsEnabled=&quot;{Binding IsCourseNameWritten}&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;left&quot;/&gt;&#10;            &lt;/StackPanel&gt; &lt;Slider x:Name=&quot;ParticipantsSlider&quot; Value=&quot;{Binding Participants}&quot; Maximum=&quot;{Binding MaximumParticipants}&quot; Minimum=&quot;1&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Bottom&quot; Width=&quot;475&quot;/&gt;.../&gt;" />
+            <marker date="1499953566925" expanded="true" signature="998:1455" ph="&lt;&lt;TextBox Name=&quot;CourseNameBox&quot; Text=&quot;{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot; Tag=&quot;Course name...&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;0,0,30,0&quot;/&gt; &lt;Button Content=&quot;GO!  &quot; Command=&quot;{Binding StartCommand}&quot; Style=&quot;{StaticResource ArrowButton}&quot; IsEnabled=&quot;{Binding IsCourseNameWritten}&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;left&quot;/&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/Pages/Selections/LoginPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <marker date="1500036194180" expanded="true" signature="0:2030" ph="&lt;&lt;Grid VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;auto&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;&#10;        &lt;TextBox x:Name=&quot;LoginText&quot;&#10;                 Style=&quot;{StaticResource EmailTextBox}&quot;&#10;                 Grid.Row=&quot;0&quot;&#10;                 Width=&quot;500&quot; &#10;                 Tag=&quot;Your login here...&quot; &#10;                 Margin=&quot;0,0,0,35&quot;/&gt;&#10;        &#10;        &lt;PasswordBox x:Name=&quot;PasswordText&quot; &#10;                     Grid.Row=&quot;1&quot;&#10;                     Width=&quot;500&quot; &#10;                     Tag=&quot;Your password here...&quot; &#10;                     Margin=&quot;0,0,0,35&quot;/&gt;&#10;        &#10;        &lt;Label Grid.Row=&quot;3&quot;&#10;               Style=&quot;{StaticResource SmallLabel}&quot;&#10;               Content=&quot;*incorrect login or password, try again&quot; &#10;               Foreground=&quot;{StaticResource MainColorBrush}&quot;&#10;               HorizontalAlignment=&quot;Left&quot;&#10;               VerticalAlignment=&quot;Top&quot;/&gt;&#10;        &#10;        &lt;Button x:Name=&quot;LoginBtn&quot; &#10;                Grid.Row=&quot;3&quot;&#10;                Width=&quot;125&quot;&#10;                Height=&quot;35&quot;&#10;                HorizontalAlignment=&quot;Right&quot;&#10;                Content=&quot;Log in  &quot;&#10;                Command=&quot;{Binding LoginCommand}&quot;&#10;                CommandParameter=&quot;{Binding SecurePassword, ElementName=PasswordText}&quot;&#10;                Style=&quot;{StaticResource ArrowButton}&quot; /&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="511:2013" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;auto&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;TextBox x:Name=&quot;LoginText&quot;&#10;                 Style=&quot;{StaticResource EmailTextBox}&quot;&#10;                 Grid.Row=&quot;0&quot;&#10;                 Width=&quot;500&quot; &#10;                 Tag=&quot;Your login here...&quot; &#10;                 Margin=&quot;0,0,0,35&quot;/&gt; &lt;PasswordBox x:Name=&quot;PasswordText&quot; &#10;                     Grid.Row=&quot;1&quot;&#10;                     Width=&quot;500&quot; &#10;                     Tag=&quot;Your password here...&quot; &#10;                     Margin=&quot;0,0,0,35&quot;/&gt; &lt;Label Grid.Row=&quot;3&quot;&#10;               Style=&quot;{StaticResource SmallLabel}&quot;&#10;               Content=&quot;*incorrect login or password, try again&quot; &#10;               Foreground=&quot;{StaticResource MainColorBrush}&quot;&#10;               HorizontalAlignment=&quot;Left&quot;&#10;               VerticalAlignment=&quot;Top&quot;/&gt; &lt;Button x:Name=&quot;LoginBtn&quot; &#10;                Grid.Row=&quot;3&quot;&#10;                Width=&quot;125&quot;&#10;                Height=&quot;35&quot;&#10;                HorizontalAlignment=&quot;Right&quot;&#10;                Content=&quot;Log in  &quot;&#10;                Command=&quot;{Binding LoginCommand}&quot;&#10;                CommandParameter=&quot;{Binding SecurePassword, ElementName=PasswordText}&quot;&#10;                Style=&quot;{StaticResource ArrowButton}&quot; /&gt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="577:749" ph="&lt;&lt;RowDefinition Height=&quot;*&quot;/&gt; &lt;RowDefinition Height=&quot;*&quot;/&gt; &lt;RowDefinition Height=&quot;*&quot;/&gt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="758:861" ph="&lt;&lt;ColumnDefinition Width=&quot;auto&quot;/&gt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="871:1093" ph="&lt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="1111:1305" ph="&lt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="1323:1602" ph="&lt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="1620:2001" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/ViewModel/Selections/LoginViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <marker date="1499953403224" expanded="false" signature="6:109" ph="..." />
+            <marker date="1499953403224" expanded="true" signature="132:1261" ph="{...}" />
+            <marker date="1499953403224" expanded="true" signature="182:1259" ph="{...}" />
+            <marker date="1499953403224" expanded="true" signature="197:382" ph="Public Properties" />
+            <marker date="1499953403224" expanded="true" signature="232:302" ph="/// The Email of the user ... " />
+            <marker date="1499953403224" expanded="true" signature="392:567" ph="Commands" />
+            <marker date="1499953403224" expanded="true" signature="418:487" ph="/// The command to login ... " />
+            <marker date="1499953403224" expanded="true" signature="577:892" ph="Constructor" />
+            <marker date="1499953403224" expanded="true" signature="606:674" ph="/// Default constructor ... " />
+            <marker date="1499953403224" expanded="true" signature="706:860" ph="{...}" />
+            <marker date="1499953403224" expanded="true" signature="903:1131" ph="/// Attempt to log the user in ... " />
+            <marker date="1499953403224" expanded="true" signature="1181:1253" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/Pages/CoursePage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <marker date="1500277414919" expanded="false" signature="6:137" ph="..." />
+            <marker date="1500277414919" expanded="true" signature="160:4212" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="167:245" ph="/// Interaction logic for CoursePage.xaml ... " />
+            <marker date="1500277414919" expanded="true" signature="309:4210" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="377:455" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="465:531" ph="/// Main initializer. ... " />
+            <marker date="1500277414919" expanded="true" signature="559:1148" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="1158:1234" ph="/// Calls checks each 1 second. ... " />
+            <marker date="1500277414919" expanded="true" signature="1311:1363" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="1373:1454" ph="/// Get the needed data from server. ... " />
+            <marker date="1500277414919" expanded="true" signature="1495:1543" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="1553:1619" ph="/// Connection check. ... " />
+            <marker date="1500277414919" expanded="true" signature="1666:1863" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="1939:2095" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2018:2085" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2105:2185" ph="/// Set the participants combo box. ... " />
+            <marker date="1500277414919" expanded="true" signature="2226:2368" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2249:2358" ph="/* for (int i = 1; i &lt;= 15; i++) ... */" />
+            <marker date="1500277414919" expanded="true" signature="2378:2447" ph="/// Recieves TCP Message ... " />
+            <marker date="1500277414919" expanded="true" signature="2492:2596" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2527:2586" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2672:3197" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2695:3187" ph="/* SessionBox.Tag = string.IsNullOrEmpty(SessionBox.Text) ? &quot;2&quot; : &quot;1&quot;; ... */" />
+            <marker date="1500277414919" expanded="true" signature="3231:3877" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="3254:3867" ph="/* while (true) ... */" />
+            <marker date="1500277414919" expanded="true" signature="3946:4100" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="3995:4089" ph="/* AdminLogin adminLoginScreen = new AdminLogin(); ... */" />
+            <marker date="1500277414919" expanded="true" signature="4171:4204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/Pages/CoursePage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding>
+            <marker date="1499953566925" expanded="true" signature="0:1710" ph="&lt;&lt;Grid&gt;&#10;        &lt;TextBlock Style=&quot;{StaticResource TitleCornerTextBlock}&quot; Margin=&quot;45,40,0,0&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                &lt;Run Text=&quot;RACING&quot; Foreground=&quot;{StaticResource FirstLogoColorBrush}&quot;/&gt;&lt;Run Text=&quot;MONITOR&quot; Foreground=&quot;{StaticResource SecondLogoColorBrush}&quot;/&gt;&#10;        &lt;/TextBlock&gt;&#10;        &lt;Grid Width=&quot;auto&quot; Height=&quot;160&quot; Margin=&quot;{Binding MainGridMargin}&quot; VerticalAlignment=&quot;Center&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBox Name=&quot;CourseNameBox&quot; Text=&quot;{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot; Tag=&quot;Course name...&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;0,0,30,0&quot;/&gt;&#10;                &lt;Button Content=&quot;GO!  &quot; Command=&quot;{Binding StartCommand}&quot; Style=&quot;{StaticResource ArrowButton}&quot; IsEnabled=&quot;{Binding IsCourseNameWritten}&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;left&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;Slider x:Name=&quot;ParticipantsSlider&quot; Value=&quot;{Binding Participants}&quot; Maximum=&quot;{Binding MaximumParticipants}&quot; Minimum=&quot;1&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Bottom&quot; Width=&quot;475&quot;/&gt;&#10;        &lt;/Grid&gt;&#10;        &#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1499953566925" expanded="true" signature="532:1693" ph="&lt;&lt;TextBlock Style=&quot;{StaticResource TitleCornerTextBlock}&quot; Margin=&quot;45,40,0,0&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                &lt;Run Text=&quot;RACING&quot; Foreground=&quot;{StaticResource FirstLogoColorBrush}&quot;/&gt;&lt;Run Text=&quot;MONITOR&quot; Foreground=&quot;{StaticResource SecondLogoColorBrush}&quot;/&gt;&#10;        &lt;/TextBlock&gt; &lt;Grid Width=&quot;auto&quot; Height=&quot;160&quot; Margin=&quot;{Binding MainGridMargin}&quot; VerticalAlignment=&quot;Center&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBox Name=&quot;CourseNameBox&quot; Text=&quot;{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot; Tag=&quot;Course name...&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;0,0,30,0&quot;/&gt;&#10;                &lt;Button Content=&quot;GO!  &quot; Command=&quot;{Binding StartCommand}&quot; Style=&quot;{StaticResource ArrowButton}&quot; IsEnabled=&quot;{Binding IsCourseNameWritten}&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;left&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;Slider x:Name=&quot;ParticipantsSlider&quot; Value=&quot;{Binding Participants}&quot; Maximum=&quot;{Binding MaximumParticipants}&quot; Minimum=&quot;1&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Bottom&quot; Width=&quot;475&quot;/&gt;&#10;        &lt;/Grid&gt;.../&gt;" />
+            <marker date="1499953566925" expanded="true" signature="547:854" ph="&lt;&lt;Run Text=&quot;RACING&quot; Foreground=&quot;{StaticResource FirstLogoColorBrush}&quot;/&gt;&lt;Run Text=&quot;MONITOR&quot; Foreground=&quot;{StaticResource SecondLogoColorBrush}&quot;/&gt;.../&gt;" />
+            <marker date="1499953566925" expanded="true" signature="863:1672" ph="&lt;&lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBox Name=&quot;CourseNameBox&quot; Text=&quot;{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot; Tag=&quot;Course name...&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;0,0,30,0&quot;/&gt;&#10;                &lt;Button Content=&quot;GO!  &quot; Command=&quot;{Binding StartCommand}&quot; Style=&quot;{StaticResource ArrowButton}&quot; IsEnabled=&quot;{Binding IsCourseNameWritten}&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;left&quot;/&gt;&#10;            &lt;/StackPanel&gt; &lt;Slider x:Name=&quot;ParticipantsSlider&quot; Value=&quot;{Binding Participants}&quot; Maximum=&quot;{Binding MaximumParticipants}&quot; Minimum=&quot;1&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Bottom&quot; Width=&quot;475&quot;/&gt;.../&gt;" />
+            <marker date="1499953566925" expanded="true" signature="998:1455" ph="&lt;&lt;TextBox Name=&quot;CourseNameBox&quot; Text=&quot;{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot; Tag=&quot;Course name...&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;0,0,30,0&quot;/&gt; &lt;Button Content=&quot;GO!  &quot; Command=&quot;{Binding StartCommand}&quot; Style=&quot;{StaticResource ArrowButton}&quot; IsEnabled=&quot;{Binding IsCourseNameWritten}&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;left&quot;/&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/Pages/Selections/LoginPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <marker date="1500036194180" expanded="true" signature="0:2030" ph="&lt;&lt;Grid VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;auto&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;&#10;        &lt;TextBox x:Name=&quot;LoginText&quot;&#10;                 Style=&quot;{StaticResource EmailTextBox}&quot;&#10;                 Grid.Row=&quot;0&quot;&#10;                 Width=&quot;500&quot; &#10;                 Tag=&quot;Your login here...&quot; &#10;                 Margin=&quot;0,0,0,35&quot;/&gt;&#10;        &#10;        &lt;PasswordBox x:Name=&quot;PasswordText&quot; &#10;                     Grid.Row=&quot;1&quot;&#10;                     Width=&quot;500&quot; &#10;                     Tag=&quot;Your password here...&quot; &#10;                     Margin=&quot;0,0,0,35&quot;/&gt;&#10;        &#10;        &lt;Label Grid.Row=&quot;3&quot;&#10;               Style=&quot;{StaticResource SmallLabel}&quot;&#10;               Content=&quot;*incorrect login or password, try again&quot; &#10;               Foreground=&quot;{StaticResource MainColorBrush}&quot;&#10;               HorizontalAlignment=&quot;Left&quot;&#10;               VerticalAlignment=&quot;Top&quot;/&gt;&#10;        &#10;        &lt;Button x:Name=&quot;LoginBtn&quot; &#10;                Grid.Row=&quot;3&quot;&#10;                Width=&quot;125&quot;&#10;                Height=&quot;35&quot;&#10;                HorizontalAlignment=&quot;Right&quot;&#10;                Content=&quot;Log in  &quot;&#10;                Command=&quot;{Binding LoginCommand}&quot;&#10;                CommandParameter=&quot;{Binding SecurePassword, ElementName=PasswordText}&quot;&#10;                Style=&quot;{StaticResource ArrowButton}&quot; /&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="511:2013" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;auto&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;TextBox x:Name=&quot;LoginText&quot;&#10;                 Style=&quot;{StaticResource EmailTextBox}&quot;&#10;                 Grid.Row=&quot;0&quot;&#10;                 Width=&quot;500&quot; &#10;                 Tag=&quot;Your login here...&quot; &#10;                 Margin=&quot;0,0,0,35&quot;/&gt; &lt;PasswordBox x:Name=&quot;PasswordText&quot; &#10;                     Grid.Row=&quot;1&quot;&#10;                     Width=&quot;500&quot; &#10;                     Tag=&quot;Your password here...&quot; &#10;                     Margin=&quot;0,0,0,35&quot;/&gt; &lt;Label Grid.Row=&quot;3&quot;&#10;               Style=&quot;{StaticResource SmallLabel}&quot;&#10;               Content=&quot;*incorrect login or password, try again&quot; &#10;               Foreground=&quot;{StaticResource MainColorBrush}&quot;&#10;               HorizontalAlignment=&quot;Left&quot;&#10;               VerticalAlignment=&quot;Top&quot;/&gt; &lt;Button x:Name=&quot;LoginBtn&quot; &#10;                Grid.Row=&quot;3&quot;&#10;                Width=&quot;125&quot;&#10;                Height=&quot;35&quot;&#10;                HorizontalAlignment=&quot;Right&quot;&#10;                Content=&quot;Log in  &quot;&#10;                Command=&quot;{Binding LoginCommand}&quot;&#10;                CommandParameter=&quot;{Binding SecurePassword, ElementName=PasswordText}&quot;&#10;                Style=&quot;{StaticResource ArrowButton}&quot; /&gt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="577:749" ph="&lt;&lt;RowDefinition Height=&quot;*&quot;/&gt; &lt;RowDefinition Height=&quot;*&quot;/&gt; &lt;RowDefinition Height=&quot;*&quot;/&gt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="758:861" ph="&lt;&lt;ColumnDefinition Width=&quot;auto&quot;/&gt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="871:1093" ph="&lt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="1111:1305" ph="&lt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="1323:1602" ph="&lt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="1620:2001" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Core/FodyWeavers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Core/RM.Core.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="120" column="67" lean-forward="false" selection-start-line="120" selection-start-column="67" selection-end-line="120" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Server/RM.Server.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="203" column="55" lean-forward="true" selection-start-line="203" selection-start-column="55" selection-end-line="203" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Core/AttachedProperties/NoFrameHistory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/Pages/BasePage.cs" />
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/Pages/Selections/LoginPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/Pages/CoursePage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding>
+            <marker date="1499953566925" expanded="true" signature="0:1710" ph="&lt;&lt;Grid&gt;&#10;        &lt;TextBlock Style=&quot;{StaticResource TitleCornerTextBlock}&quot; Margin=&quot;45,40,0,0&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                &lt;Run Text=&quot;RACING&quot; Foreground=&quot;{StaticResource FirstLogoColorBrush}&quot;/&gt;&lt;Run Text=&quot;MONITOR&quot; Foreground=&quot;{StaticResource SecondLogoColorBrush}&quot;/&gt;&#10;        &lt;/TextBlock&gt;&#10;        &lt;Grid Width=&quot;auto&quot; Height=&quot;160&quot; Margin=&quot;{Binding MainGridMargin}&quot; VerticalAlignment=&quot;Center&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBox Name=&quot;CourseNameBox&quot; Text=&quot;{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot; Tag=&quot;Course name...&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;0,0,30,0&quot;/&gt;&#10;                &lt;Button Content=&quot;GO!  &quot; Command=&quot;{Binding StartCommand}&quot; Style=&quot;{StaticResource ArrowButton}&quot; IsEnabled=&quot;{Binding IsCourseNameWritten}&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;left&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;Slider x:Name=&quot;ParticipantsSlider&quot; Value=&quot;{Binding Participants}&quot; Maximum=&quot;{Binding MaximumParticipants}&quot; Minimum=&quot;1&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Bottom&quot; Width=&quot;475&quot;/&gt;&#10;        &lt;/Grid&gt;&#10;        &#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1499953566925" expanded="true" signature="532:1693" ph="&lt;&lt;TextBlock Style=&quot;{StaticResource TitleCornerTextBlock}&quot; Margin=&quot;45,40,0,0&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                &lt;Run Text=&quot;RACING&quot; Foreground=&quot;{StaticResource FirstLogoColorBrush}&quot;/&gt;&lt;Run Text=&quot;MONITOR&quot; Foreground=&quot;{StaticResource SecondLogoColorBrush}&quot;/&gt;&#10;        &lt;/TextBlock&gt; &lt;Grid Width=&quot;auto&quot; Height=&quot;160&quot; Margin=&quot;{Binding MainGridMargin}&quot; VerticalAlignment=&quot;Center&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBox Name=&quot;CourseNameBox&quot; Text=&quot;{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot; Tag=&quot;Course name...&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;0,0,30,0&quot;/&gt;&#10;                &lt;Button Content=&quot;GO!  &quot; Command=&quot;{Binding StartCommand}&quot; Style=&quot;{StaticResource ArrowButton}&quot; IsEnabled=&quot;{Binding IsCourseNameWritten}&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;left&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;Slider x:Name=&quot;ParticipantsSlider&quot; Value=&quot;{Binding Participants}&quot; Maximum=&quot;{Binding MaximumParticipants}&quot; Minimum=&quot;1&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Bottom&quot; Width=&quot;475&quot;/&gt;&#10;        &lt;/Grid&gt;.../&gt;" />
+            <marker date="1499953566925" expanded="true" signature="547:854" ph="&lt;&lt;Run Text=&quot;RACING&quot; Foreground=&quot;{StaticResource FirstLogoColorBrush}&quot;/&gt;&lt;Run Text=&quot;MONITOR&quot; Foreground=&quot;{StaticResource SecondLogoColorBrush}&quot;/&gt;.../&gt;" />
+            <marker date="1499953566925" expanded="true" signature="863:1672" ph="&lt;&lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBox Name=&quot;CourseNameBox&quot; Text=&quot;{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot; Tag=&quot;Course name...&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;0,0,30,0&quot;/&gt;&#10;                &lt;Button Content=&quot;GO!  &quot; Command=&quot;{Binding StartCommand}&quot; Style=&quot;{StaticResource ArrowButton}&quot; IsEnabled=&quot;{Binding IsCourseNameWritten}&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;left&quot;/&gt;&#10;            &lt;/StackPanel&gt; &lt;Slider x:Name=&quot;ParticipantsSlider&quot; Value=&quot;{Binding Participants}&quot; Maximum=&quot;{Binding MaximumParticipants}&quot; Minimum=&quot;1&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Bottom&quot; Width=&quot;475&quot;/&gt;.../&gt;" />
+            <marker date="1499953566925" expanded="true" signature="998:1455" ph="&lt;&lt;TextBox Name=&quot;CourseNameBox&quot; Text=&quot;{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot; Tag=&quot;Course name...&quot; VerticalAlignment=&quot;Top&quot; Margin=&quot;0,0,30,0&quot;/&gt; &lt;Button Content=&quot;GO!  &quot; Command=&quot;{Binding StartCommand}&quot; Style=&quot;{StaticResource ArrowButton}&quot; IsEnabled=&quot;{Binding IsCourseNameWritten}&quot; VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;left&quot;/&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/Pages/IdlePage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/Pages/CoursePage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <marker date="1500277414919" expanded="false" signature="6:137" ph="..." />
+            <marker date="1500277414919" expanded="true" signature="160:4212" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="167:245" ph="/// Interaction logic for CoursePage.xaml ... " />
+            <marker date="1500277414919" expanded="true" signature="309:4210" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="377:455" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="465:531" ph="/// Main initializer. ... " />
+            <marker date="1500277414919" expanded="true" signature="559:1148" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="1158:1234" ph="/// Calls checks each 1 second. ... " />
+            <marker date="1500277414919" expanded="true" signature="1311:1363" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="1373:1454" ph="/// Get the needed data from server. ... " />
+            <marker date="1500277414919" expanded="true" signature="1495:1543" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="1553:1619" ph="/// Connection check. ... " />
+            <marker date="1500277414919" expanded="true" signature="1666:1863" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="1939:2095" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2018:2085" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2105:2185" ph="/// Set the participants combo box. ... " />
+            <marker date="1500277414919" expanded="true" signature="2226:2368" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2249:2358" ph="/* for (int i = 1; i &lt;= 15; i++) ... */" />
+            <marker date="1500277414919" expanded="true" signature="2378:2447" ph="/// Recieves TCP Message ... " />
+            <marker date="1500277414919" expanded="true" signature="2492:2596" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2527:2586" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2672:3197" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="2695:3187" ph="/* SessionBox.Tag = string.IsNullOrEmpty(SessionBox.Text) ? &quot;2&quot; : &quot;1&quot;; ... */" />
+            <marker date="1500277414919" expanded="true" signature="3231:3877" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="3254:3867" ph="/* while (true) ... */" />
+            <marker date="1500277414919" expanded="true" signature="3946:4100" ph="{...}" />
+            <marker date="1500277414919" expanded="true" signature="3995:4089" ph="/* AdminLogin adminLoginScreen = new AdminLogin(); ... */" />
+            <marker date="1500277414919" expanded="true" signature="4171:4204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/Pages/Selections/LoginPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <marker date="1500036194180" expanded="true" signature="0:2030" ph="&lt;&lt;Grid VerticalAlignment=&quot;Top&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;auto&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;&#10;        &lt;TextBox x:Name=&quot;LoginText&quot;&#10;                 Style=&quot;{StaticResource EmailTextBox}&quot;&#10;                 Grid.Row=&quot;0&quot;&#10;                 Width=&quot;500&quot; &#10;                 Tag=&quot;Your login here...&quot; &#10;                 Margin=&quot;0,0,0,35&quot;/&gt;&#10;        &#10;        &lt;PasswordBox x:Name=&quot;PasswordText&quot; &#10;                     Grid.Row=&quot;1&quot;&#10;                     Width=&quot;500&quot; &#10;                     Tag=&quot;Your password here...&quot; &#10;                     Margin=&quot;0,0,0,35&quot;/&gt;&#10;        &#10;        &lt;Label Grid.Row=&quot;3&quot;&#10;               Style=&quot;{StaticResource SmallLabel}&quot;&#10;               Content=&quot;*incorrect login or password, try again&quot; &#10;               Foreground=&quot;{StaticResource MainColorBrush}&quot;&#10;               HorizontalAlignment=&quot;Left&quot;&#10;               VerticalAlignment=&quot;Top&quot;/&gt;&#10;        &#10;        &lt;Button x:Name=&quot;LoginBtn&quot; &#10;                Grid.Row=&quot;3&quot;&#10;                Width=&quot;125&quot;&#10;                Height=&quot;35&quot;&#10;                HorizontalAlignment=&quot;Right&quot;&#10;                Content=&quot;Log in  &quot;&#10;                Command=&quot;{Binding LoginCommand}&quot;&#10;                CommandParameter=&quot;{Binding SecurePassword, ElementName=PasswordText}&quot;&#10;                Style=&quot;{StaticResource ArrowButton}&quot; /&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="511:2013" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;auto&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;TextBox x:Name=&quot;LoginText&quot;&#10;                 Style=&quot;{StaticResource EmailTextBox}&quot;&#10;                 Grid.Row=&quot;0&quot;&#10;                 Width=&quot;500&quot; &#10;                 Tag=&quot;Your login here...&quot; &#10;                 Margin=&quot;0,0,0,35&quot;/&gt; &lt;PasswordBox x:Name=&quot;PasswordText&quot; &#10;                     Grid.Row=&quot;1&quot;&#10;                     Width=&quot;500&quot; &#10;                     Tag=&quot;Your password here...&quot; &#10;                     Margin=&quot;0,0,0,35&quot;/&gt; &lt;Label Grid.Row=&quot;3&quot;&#10;               Style=&quot;{StaticResource SmallLabel}&quot;&#10;               Content=&quot;*incorrect login or password, try again&quot; &#10;               Foreground=&quot;{StaticResource MainColorBrush}&quot;&#10;               HorizontalAlignment=&quot;Left&quot;&#10;               VerticalAlignment=&quot;Top&quot;/&gt; &lt;Button x:Name=&quot;LoginBtn&quot; &#10;                Grid.Row=&quot;3&quot;&#10;                Width=&quot;125&quot;&#10;                Height=&quot;35&quot;&#10;                HorizontalAlignment=&quot;Right&quot;&#10;                Content=&quot;Log in  &quot;&#10;                Command=&quot;{Binding LoginCommand}&quot;&#10;                CommandParameter=&quot;{Binding SecurePassword, ElementName=PasswordText}&quot;&#10;                Style=&quot;{StaticResource ArrowButton}&quot; /&gt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="577:749" ph="&lt;&lt;RowDefinition Height=&quot;*&quot;/&gt; &lt;RowDefinition Height=&quot;*&quot;/&gt; &lt;RowDefinition Height=&quot;*&quot;/&gt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="758:861" ph="&lt;&lt;ColumnDefinition Width=&quot;auto&quot;/&gt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="871:1093" ph="&lt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="1111:1305" ph="&lt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="1323:1602" ph="&lt;.../&gt;" />
+            <marker date="1500036194180" expanded="true" signature="1620:2001" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/ViewModel/ViewModelLocator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <marker date="1499944401769" expanded="false" signature="6:115" ph="..." />
+            <marker date="1499944401769" expanded="true" signature="138:710" ph="{...}" />
+            <marker date="1499944401769" expanded="true" signature="145:251" ph="/// Locates view models from the IoC for use in binding in XAML files ... " />
+            <marker date="1499944401769" expanded="true" signature="335:417" ph="/// Singleton instance of the locator ... " />
+            <marker date="1499944401769" expanded="true" signature="523:598" ph="/// The application view model ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/ViewModel/Selections/LoginViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding>
+            <marker date="1499953403224" expanded="false" signature="6:109" ph="..." />
+            <marker date="1499953403224" expanded="true" signature="132:1261" ph="{...}" />
+            <marker date="1499953403224" expanded="true" signature="182:1259" ph="{...}" />
+            <marker date="1499953403224" expanded="true" signature="197:382" ph="Public Properties" />
+            <marker date="1499953403224" expanded="true" signature="232:302" ph="/// The Email of the user ... " />
+            <marker date="1499953403224" expanded="true" signature="392:567" ph="Commands" />
+            <marker date="1499953403224" expanded="true" signature="418:487" ph="/// The command to login ... " />
+            <marker date="1499953403224" expanded="true" signature="577:892" ph="Constructor" />
+            <marker date="1499953403224" expanded="true" signature="606:674" ph="/// Default constructor ... " />
+            <marker date="1499953403224" expanded="true" signature="706:860" ph="{...}" />
+            <marker date="1499953403224" expanded="true" signature="903:1131" ph="/// Attempt to log the user in ... " />
+            <marker date="1499953403224" expanded="true" signature="1181:1253" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Terminal/ViewModel/Pages/IdleViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding>
+            <marker date="1500277542661" expanded="false" signature="6:100" ph="..." />
+            <marker date="1500277542661" expanded="true" signature="123:1876" ph="{...}" />
+            <marker date="1500277542661" expanded="true" signature="172:1874" ph="{...}" />
+            <marker date="1500277542661" expanded="true" signature="187:458" ph="Private Methods" />
+            <marker date="1500277542661" expanded="true" signature="220:317" ph="/// Set color of indicator for TCP Server connection ... " />
+            <marker date="1500277542661" expanded="true" signature="468:1413" ph="Public Properties" />
+            <marker date="1500277542661" expanded="true" signature="503:576" ph="/// Command for start button ... " />
+            <marker date="1500277542661" expanded="true" signature="637:727" ph="/// Is the client connected to the TCP Server ... " />
+            <marker date="1500277542661" expanded="true" signature="788:885" ph="/// Set color of indicator for TCP Server connection ... " />
+            <marker date="1500277542661" expanded="true" signature="938:1392" ph="{...}" />
+            <marker date="1500277542661" expanded="true" signature="1007:1382" ph="{...}" />
+            <marker date="1500277542661" expanded="true" signature="1423:1746" ph="Constructor" />
+            <marker date="1500277542661" expanded="true" signature="1452:1520" ph="/// Default constructor ... " />
+            <marker date="1500277542661" expanded="true" signature="1551:1726" ph="{...}" />
+            <marker date="1500277542661" expanded="true" signature="1786:1868" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Server/ViewModel/MainViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding>
+            <marker date="1499335691263" expanded="false" signature="6:75" ph="..." />
+            <marker date="1499335691263" expanded="true" signature="96:580" ph="{...}" />
+            <marker date="1499335691263" expanded="true" signature="145:578" ph="{...}" />
+            <marker date="1499335691263" expanded="true" signature="522:572" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Server/Styles/ComboBox.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="74" lean-forward="false" selection-start-line="1" selection-start-column="74" selection-end-line="1" selection-end-column="74" />
+          <folding>
+            <marker date="1500450410992" expanded="true" signature="0:448" ph="&lt;&lt;Style TargetType=&quot;{x:Type ComboBox}&quot; BasedOn=&quot;{StaticResource MetroComboBox}&quot;&gt;&#10;        &lt;Setter Property=&quot;Margin&quot; Value=&quot;0,0,5,5&quot;/&gt;&#10;        &lt;Setter Property=&quot;FontSize&quot; Value=&quot;13&quot;/&gt;&#10;    &lt;/Style&gt;.../&gt;" />
+            <marker date="1500450410992" expanded="true" signature="232:425" ph="&lt;&lt;Setter Property=&quot;Margin&quot; Value=&quot;0,0,5,5&quot;/&gt; &lt;Setter Property=&quot;FontSize&quot; Value=&quot;13&quot;/&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Server/Controls/TCP.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="225" column="16" lean-forward="false" selection-start-line="225" selection-start-column="16" selection-end-line="225" selection-end-column="16" />
+          <folding>
+            <marker date="1499335664684" expanded="false" signature="6:279" ph="..." />
+            <marker date="1499335664684" expanded="true" signature="309:9451" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="334:9449" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="617:1070" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="643:890" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="929:1060" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="1108:1934" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="1190:1757" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="1702:1743" ph="/* ); ... */" />
+            <marker date="1499335664684" expanded="true" signature="1790:1924" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="1944:2013" ph="/// Recieves TCP Message ... " />
+            <marker date="1499335664684" expanded="true" signature="2057:2255" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="2173:2245" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="2301:3279" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="2374:2620" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="2659:2949" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="2982:3269" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="3323:3462" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="3502:4327" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="3528:3969" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="4001:4317" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="4386:4875" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="4412:4700" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="4733:4865" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="4910:5087" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="5098:5225" ph="/// Get direction of the received data. ... " />
+            <marker date="1499335664684" expanded="true" signature="5282:8467" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="5327:5524" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="5541:8457" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="5641:8443" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="6159:6506" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="6692:6888" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="7107:7299" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="7486:7787" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="8032:8222" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="8585:8810" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="8637:8800" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="8687:8786" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="8911:9130" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="8961:9120" ph="{...}" />
+            <marker date="1499335664684" expanded="true" signature="9009:9106" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Core/ViewModel/BasePage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="71" lean-forward="false" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="71" />
+          <folding>
+            <marker date="1499951298517" expanded="false" signature="6:235" ph="..." />
+            <marker date="1499951298517" expanded="true" signature="254:4758" ph="{...}" />
+            <marker date="1499951298517" expanded="true" signature="261:356" ph="/// The base page for all pages to gain base functionality ... " />
+            <marker date="1499951298517" expanded="true" signature="396:3746" ph="{...}" />
+            <marker date="1499951298517" expanded="true" signature="411:1191" ph="Public Properties" />
+            <marker date="1499951298517" expanded="true" signature="446:542" ph="/// The animation that is played on page first load ... " />
+            <marker date="1499951298517" expanded="true" signature="654:746" ph="/// The animation that is played of page unload ... " />
+            <marker date="1499951298517" expanded="true" signature="858:928" ph="/// The time of animation ... " />
+            <marker date="1499951298517" expanded="true" signature="994:1102" ph="/// A flag to indicate if this page should animate out on load. ... " />
+            <marker date="1499951298517" expanded="true" signature="1201:1760" ph="Constructor" />
+            <marker date="1499951298517" expanded="true" signature="1230:1298" ph="/// Default constructor ... " />
+            <marker date="1499951298517" expanded="true" signature="1324:1740" ph="{...}" />
+            <marker date="1499951298517" expanded="true" signature="1770:3740" ph="Animation Load / Unload" />
+            <marker date="1499951298517" expanded="true" signature="1811:1994" ph="/// Once the page is loaded, perform any required animation ... " />
+            <marker date="1499951298517" expanded="true" signature="2076:2389" ph="{...}" />
+            <marker date="1499951298517" expanded="true" signature="2399:2500" ph="/// Animates the page in ... " />
+            <marker date="1499951298517" expanded="true" signature="2543:2956" ph="{...}" />
+            <marker date="1499951298517" expanded="true" signature="2723:2946" ph="{...}" />
+            <marker date="1499951298517" expanded="true" signature="2966:3068" ph="/// Animates the page out ... " />
+            <marker date="1499951298517" expanded="true" signature="3112:3719" ph="{...}" />
+            <marker date="1499951298517" expanded="true" signature="3296:3709" ph="{...}" />
+            <marker date="1499951298517" expanded="true" signature="3752:3875" ph="/// A base page with added ViewModel support ... " />
+            <marker date="1499951298517" expanded="true" signature="3956:4756" ph="{...}" />
+            <marker date="1499951298517" expanded="true" signature="3971:4129" ph="Private Members" />
+            <marker date="1499951298517" expanded="true" signature="4004:4078" ph="/// The ViewModel of the page ... " />
+            <marker date="1499951298517" expanded="true" signature="4139:4534" ph="Public Properties" />
+            <marker date="1499951298517" expanded="true" signature="4174:4248" ph="/// The ViewModel of the page ... " />
+            <marker date="1499951298517" expanded="true" signature="4276:4514" ph="{...}" />
+            <marker date="1499951298517" expanded="true" signature="4332:4504" ph="{...}" />
+            <marker date="1499951298517" expanded="true" signature="4544:4750" ph="Constructor" />
+            <marker date="1499951298517" expanded="true" signature="4573:4641" ph="/// Default constructor ... " />
+            <marker date="1499951298517" expanded="true" signature="4676:4730" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Core/Controls/Global.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="74" lean-forward="false" selection-start-line="1" selection-start-column="74" selection-end-line="1" selection-end-column="74" />
+          <folding>
+            <marker date="1500450447024" expanded="true" signature="0:486" ph="&lt;&lt;Style x:Key=&quot;NoBorderWindow&quot; TargetType=&quot;{x:Type Window}&quot;&gt;&#10;        &lt;Setter Property=&quot;ResizeMode&quot; Value=&quot;NoResize&quot;/&gt;&#10;        &lt;Setter Property=&quot;WindowState&quot; Value=&quot;Maximized&quot;/&gt;&#10;        &lt;Setter Property=&quot;WindowStyle&quot; Value=&quot;None&quot;/&gt;&#10;        &lt;Setter Property=&quot;BorderThickness&quot; Value=&quot;0&quot;/&gt;&#10;    &lt;/Style&gt;.../&gt;" />
+            <marker date="1500450447024" expanded="true" signature="167:464" ph="&lt;&lt;Setter Property=&quot;ResizeMode&quot; Value=&quot;NoResize&quot;/&gt; &lt;Setter Property=&quot;WindowState&quot; Value=&quot;Maximized&quot;/&gt; &lt;Setter Property=&quot;WindowStyle&quot; Value=&quot;None&quot;/&gt; &lt;Setter Property=&quot;BorderThickness&quot; Value=&quot;0&quot;/&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RM.Core/AttachedProperties/FrameworkElementAnimationAttachedProperties.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+          <folding>
+            <marker date="1499939244363" expanded="false" signature="6:137" ph="..." />
+            <marker date="1499939244363" expanded="true" signature="156:3387" ph="{...}" />
+            <marker date="1499939244363" expanded="true" signature="163:368" ph="/// A base class to run any animation method when a boolean is set to true ... " />
+            <marker date="1499939244363" expanded="true" signature="524:2233" ph="{...}" />
+            <marker date="1499939244363" expanded="true" signature="539:786" ph="Public Properties" />
+            <marker date="1499939244363" expanded="true" signature="574:696" ph="/// A flag indicating if this is the first time this property has been loaded ... " />
+            <marker date="1499939244363" expanded="true" signature="870:1905" ph="{...}" />
+            <marker date="1499939244363" expanded="true" signature="1207:1787" ph="{...}" />
+            <marker date="1499939244363" expanded="true" signature="1395:1666" ph="{...}" />
+            <marker date="1499939244363" expanded="true" signature="1915:2142" ph="/// The animation method that is fired when the value changes ... " />
+            <marker date="1499939244363" expanded="true" signature="2239:2390" ph="/// Animates a framework element sliding it in from the right on show ... " />
+            <marker date="1499939244363" expanded="true" signature="2506:2849" ph="{...}" />
+            <marker date="1499939244363" expanded="true" signature="2600:2843" ph="{...}" />
+            <marker date="1499939244363" expanded="true" signature="2968:3384" ph="{...}" />
+            <marker date="1499939244363" expanded="true" signature="3062:3378" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

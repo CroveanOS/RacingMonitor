@@ -1,0 +1,23 @@
+﻿<core:BasePage x:TypeArguments="local:CourseViewModel"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:RM.Terminal"
+      xmlns:core="clr-namespace:RM.Core;assembly=RM.Core"
+      x:Class="RM.Terminal.CoursePage"
+      mc:Ignorable="d" d:DesignWidth="1920" d:DesignHeight="1080">
+    <Grid>
+        <TextBlock Style="{StaticResource TitleCornerTextBlock}" Margin="45,40,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">
+                <Run Text="RACING" Foreground="{StaticResource FirstLogoColorBrush}"/><Run Text="MONITOR" Foreground="{StaticResource SecondLogoColorBrush}"/>
+        </TextBlock>
+        <Grid Width="auto" Height="160" Margin="{Binding MainGridMargin}" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal">
+                <TextBox Name="CourseNameBox" Text="{Binding CourseName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Tag="Course name..." VerticalAlignment="Top" Margin="0,0,30,0"/>
+                <Button Content="GO!  " Command="{Binding StartCommand}" Style="{StaticResource ArrowButton}" IsEnabled="{Binding IsCourseNameWritten}" VerticalAlignment="Top" HorizontalAlignment="left"/>
+            </StackPanel>
+            <Slider x:Name="ParticipantsSlider" Value="{Binding Participants}" Maximum="{Binding MaximumParticipants}" Minimum="1" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="475"/>
+        </Grid>
+        
+    </Grid>
+</core:BasePage>

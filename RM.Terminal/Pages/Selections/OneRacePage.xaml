@@ -1,0 +1,16 @@
+﻿<core:BasePage x:Class="RM.Terminal.OneRacePage" x:TypeArguments="local:OneRaceViewModel"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:RM.Terminal"
+      xmlns:core="clr-namespace:RM.Core;assembly=RM.Core"
+      mc:Ignorable="d" Width="1920">
+
+    <Grid VerticalAlignment="Top" HorizontalAlignment="Left">
+        <StackPanel Orientation="Horizontal">
+            <TextBox Width="320" Margin="0,0,30,0" Tag="Your name here..."/>
+            <Button Style="{StaticResource ArrowButton}" Width="125" Content="Log in  "/>
+        </StackPanel>
+    </Grid>
+</core:BasePage>

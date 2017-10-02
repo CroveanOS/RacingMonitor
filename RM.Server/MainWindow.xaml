@@ -1,0 +1,98 @@
+﻿<Window x:Class="RM.Server.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:properties="clr-namespace:RM.Server.Controls"           
+        xmlns:local="clr-namespace:RM.Server"
+        mc:Ignorable="d"
+        Title="Racing Monitor" Height="768" Width="1024" Closing="Window_Closing" WindowState="Maximized" >
+    <Window.Resources>
+        <properties:TCPState x:Key="TCPState"/>
+        <properties:LapCollection x:Key="LapCollection"/>
+        <properties:CourseList x:Key="CourseList"/>
+    </Window.Resources>
+    <Grid>
+        <!--Grid Definition-->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="300"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="130"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="200"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+
+        <!--Title-->
+        <TextBlock Text="Racing Monitor" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" TextAlignment="Center"/>
+
+        <!--Lap Screen-->
+        <DataGrid x:Name="LapsGrid" ItemsSource="{Binding Source={StaticResource LapCollection},Path=LapList}" AutoGenerateColumns="False" Grid.Column="1" Grid.Row="1" Margin="0, 10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Name"  Width="*" Binding="{Binding Username, Mode=OneWay}"/>
+                <DataGridTextColumn Header="Kart ID" Width="100" Binding="{Binding KartID, Mode=OneWay}"/>
+                <DataGridTextColumn Header="Lap" Width="150" Binding="{Binding Lap, Mode=OneWay}"/>
+                <DataGridTextColumn Header="Time" Width="150" Binding="{Binding Time, Mode=OneWay}"/>
+                <DataGridTextColumn Header="Best Time" Width="150" Binding="{Binding BestTime, Mode=OneWay}"/>
+                <DataGridTextColumn Header="Absolute Time" Width="150" Binding="{Binding AbsoluteTime, Mode=OneWay}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!--Course Screen-->
+        <DataGrid x:Name="CourseGrid" ItemsSource="{Binding Source={StaticResource CourseList},Path=CList}" AutoGenerateColumns="False" Grid.Column="2" Grid.Row="1" Grid.RowSpan="2" Margin="10" SelectedCellsChanged="CourseGrid_SelectedCellsChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Course" Width="*" Binding="{Binding Name, Mode=OneWay}"/>
+                <DataGridTextColumn Header="Parts" Width="100" Binding="{Binding Count, Mode=OneWay}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!--Timer-->
+        <Grid Grid.Column="2" Grid.Row="3" Margin="0,0,10,10" VerticalAlignment="Bottom" HorizontalAlignment="Right">
+            <StackPanel>
+                <Label x:Name="TimerLabel" Content="Timer" Width="200" FontSize="25" Height="43.716" VerticalContentAlignment="Center"/>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="TimerStartBtn" IsEnabled="{Binding DecoderState.IsConnected}" Content="Start" Click="TimerStartBtn_Click" Margin="0,0,5,0"/>
+                    <Button x:Name="TimerStopBtn" IsEnabled="{Binding DecoderState.IsConnected}" Content="Stop" Click="TimerStopBtn_Click" Margin="0,0,5,0"/>
+                    <Button x:Name="TimerResetBtn" IsEnabled="{Binding DecoderState.IsConnected}" Content="Reset" Click="TimerResetBtn_Click"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+
+        <!--Connection Icons-->
+        <Grid Grid.Column="0" Grid.Row="3">
+            <StackPanel Orientation="Horizontal" Margin="10,0,0,10">
+                <!--<iconPacks:PackIconMaterial x:Name="ServerConIcon" Kind="{Binding TCPState.Kind}" Foreground="{Binding Source={StaticResource TCPState},Path=Color}" Width="32" Height="32" HorizontalAlignment="Left" VerticalAlignment="Bottom" />-->
+                <!--<iconPacks:PackIconMaterial x:Name="DecoderConIcon" Kind="TimerOff" Foreground="{Binding DecoderState.Color}" Width="32" Height="32" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10,0,0,0"/>-->
+            </StackPanel>
+        </Grid>
+        <Button Name="SettingsBtn" Content="Settings" Margin="5,0" Click="SettingsBtn_Click"/>
+        <Grid Margin="15">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <StackPanel>
+                    <TextBlock Text="Terminal" />
+                    <TextBlock Text="IP" />
+                    <TextBox x:Name="TerminalIpTextBox"/>
+                    <TextBlock Text="Port" />
+                    <TextBox x:Name="TerminalPortTextBox"/>
+
+                    <TextBlock Text="Decoder" Margin="0,15,0,0"/>
+                    <TextBlock Text="Port Name" />
+                    <ComboBox x:Name="PortNameComboBox"/>
+                    <TextBlock Text="Baud Rate" />
+                    <ComboBox x:Name="BaudRateComboBox"/>
+                    <TextBlock Text="Data Bits" />
+                    <ComboBox x:Name="DataBitsComboBox"/>
+                    <TextBlock Text="Parity" />
+                    <ComboBox x:Name="ParityComboBox" />
+                    <TextBlock Text="Stop Bits" />
+                    <ComboBox x:Name="StopBitsComboBox" />
+
+                </StackPanel>
+            </ScrollViewer>
+            <Button x:Name="SaveSettingsButton" Click="SaveSettingsButton_Click" Content="Save" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
+        </Grid>
+    </Grid>
+</Window>

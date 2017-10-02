@@ -1,0 +1,255 @@
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\bin\Debug\RM Server.exe.config
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\bin\Debug\RM Server.exe
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\bin\Debug\RM Server.pdb
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\obj\Debug\MainWindow.g.cs
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\obj\Debug\App.g.cs
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\obj\Debug\RM Server_MarkupCompile.cache
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\obj\Debug\RM Server_MarkupCompile.lref
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\obj\Debug\MainWindow.baml
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\obj\Debug\RM Server.g.resources
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\obj\Debug\RM_Server.Properties.Resources.resources
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\obj\Debug\RM Server.csproj.GenerateResource.Cache
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\obj\Debug\RM Server.exe
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\obj\Debug\RM Server.pdb
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\obj\Debug\App.baml
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\obj\Debug\RM Server.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\obj\Debug\AdminLogin.g.cs
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\obj\Debug\AdminLogin.baml
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\bin\Debug\EntityFramework.dll
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\bin\Debug\EntityFramework.xml
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio\Racing Monitor\Racing Monitor\RM Server\bin\Debug\System.Data.SQLite.dll.config
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\RM Server.exe.config
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\RM Server.exe
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\RM Server.pdb
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\EntityFramework.dll
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.dll
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\EntityFramework.xml
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.xml
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.dll.config
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\AdminLogin.g.cs
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\MainWindow.g.cs
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\App.g.cs
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\RM Server_MarkupCompile.cache
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\RM Server_MarkupCompile.lref
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\App.baml
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\AdminLogin.baml
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\MainWindow.baml
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\RM Server.g.resources
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\RM_Server.Properties.Resources.resources
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\RM Server.csproj.GenerateResource.Cache
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\RM Server.exe
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\RM Server.pdb
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\rmdb
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\MahApps.Extra.dll
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.dll
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\System.Windows.Interactivity.dll
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.pdb
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.xml
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.IconPacks.xml
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\Styles\Buttons.baml
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\Styles\Colors.baml
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\Styles\Fonts.baml
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\Styles\Text.baml
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\Settings.g.cs
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\Settings.baml
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\Styles\Datagrid.baml
+E:\Projects\Personal-Project\RacingMonitor\RM Server\obj\Debug\RM Server.csprojResolveAssemblyReference.cache
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\log4net.dll
+E:\Projects\Personal-Project\RacingMonitor\RM Server\bin\Debug\log4net.xml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\rmdb
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\RM Server.exe.config
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\RM Server.exe
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\RM Server.pdb
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\EntityFramework.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\EntityFramework.SqlServer.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\log4net.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\MahApps.Extra.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.EF6.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.Linq.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\System.Windows.Interactivity.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\EntityFramework.xml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\EntityFramework.SqlServer.xml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\log4net.xml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.pdb
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.xml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.IconPacks.xml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.xml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.dll.config
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\RM Server.csprojResolveAssemblyReference.cache
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\Styles\Buttons.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\Styles\Colors.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\Styles\Datagrid.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\Styles\Fonts.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\Styles\Text.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\AdminLogin.g.cs
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\MainWindow.g.cs
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\Settings.g.cs
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\App.g.cs
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\RM Server_MarkupCompile.cache
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\RM Server_MarkupCompile.lref
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\App.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\AdminLogin.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\MainWindow.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\Settings.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\RM Server.g.resources
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\RM_Server.Properties.Resources.resources
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\RM Server.csproj.GenerateResource.Cache
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\RM Server.exe
+E:\crazykart\Racing Monitor\Project\RacingMonitor\RM Server\obj\Debug\RM Server.pdb
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\rmdb
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\RM Server.exe.config
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\RM Server.exe
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\RM Server.pdb
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\EntityFramework.dll
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\log4net.dll
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\MahApps.Extra.dll
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.dll
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.dll
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\EntityFramework.xml
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\log4net.xml
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.pdb
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.xml
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.xml
+C:\Users\max\Desktop\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\RM Server.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\Styles\Buttons.baml
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\Styles\Colors.baml
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\Styles\Datagrid.baml
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\Styles\Fonts.baml
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\Styles\Text.baml
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\App.baml
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\AdminLogin.g.cs
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\MainWindow.g.cs
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\App.g.cs
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\RM Server_MarkupCompile.cache
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\RM Server_MarkupCompile.lref
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\AdminLogin.baml
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\MainWindow.baml
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\Styles\ComboBox.baml
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\RM Server.g.resources
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\RM_Server.Properties.Resources.resources
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\RM Server.csproj.GenerateResource.Cache
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\RM Server.exe
+C:\Users\max\Desktop\RacingMonitor\RM Server\obj\Debug\RM Server.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\rmdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\RM Server.exe.config
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\RM Server.exe
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\RM Server.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\EntityFramework.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\log4net.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\MahApps.Extra.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\System.Windows.Interactivity.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\EntityFramework.xml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\log4net.xml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.xml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.dll.config
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\Styles\Buttons.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\Styles\Colors.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\Styles\Datagrid.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\Styles\Fonts.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\Styles\Text.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\App.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\AdminLogin.g.cs
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\MainWindow.g.cs
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\App.g.cs
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\RM Server_MarkupCompile.cache
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\RM Server_MarkupCompile.lref
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\AdminLogin.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\MainWindow.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\Styles\ComboBox.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\RM Server.g.resources
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\RM_Server.Properties.Resources.resources
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\RM Server.csproj.GenerateResource.Cache
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\RM Server.exe
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\RM Server.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM Server\obj\Debug\RM Server.csprojResolveAssemblyReference.cache
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\rmdb
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\RM Server.exe.config
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\RM Server.exe
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\RM Server.pdb
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\EntityFramework.dll
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\log4net.dll
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\MahApps.Extra.dll
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.dll
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.dll
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\System.Windows.Interactivity.dll
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\EntityFramework.xml
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\log4net.xml
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.pdb
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.xml
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\MahApps.Metro.IconPacks.xml
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.xml
+E:\Projects\C#\RacingMonitor\RM Server\bin\Debug\System.Data.SQLite.dll.config
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\RM Server.csprojResolveAssemblyReference.cache
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\Styles\Buttons.baml
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\Styles\Colors.baml
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\Styles\Datagrid.baml
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\Styles\Fonts.baml
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\Styles\Text.baml
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\App.baml
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\AdminLogin.g.cs
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\MainWindow.g.cs
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\App.g.cs
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\RM Server_MarkupCompile.cache
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\RM Server_MarkupCompile.lref
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\AdminLogin.baml
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\MainWindow.baml
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\Styles\ComboBox.baml
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\RM Server.g.resources
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\RM_Server.Properties.Resources.resources
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\RM Server.csproj.GenerateResource.Cache
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\RM Server.exe
+E:\Projects\C#\RacingMonitor\RM Server\obj\Debug\RM Server.pdb

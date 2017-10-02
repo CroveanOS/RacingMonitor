@@ -1,0 +1,32 @@
+﻿<core:BasePage x:TypeArguments="local:KartTypesViewModel" x:Class="RM.Terminal.KartTypesPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:RM.Terminal"
+      xmlns:core="clr-namespace:RM.Core;assembly=RM.Core"
+      mc:Ignorable="d"
+      Width="380">
+
+    <Grid>
+        <Grid.Background>
+            <SolidColorBrush Color="{StaticResource TextColor}" Opacity="0.1"/>
+        </Grid.Background>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" VerticalAlignment="Center" Margin="40,0">
+            <Button Style="{StaticResource TypeButton}" Command="{Binding KidsCommand}" Content="KIDS" Margin="0,0,0,60" Tag="/Images/kids.jpg"/>
+            <Button Style="{StaticResource TypeButton}" Command="{Binding AdultsCommand}" Content="ADULTS" Margin="0,0,0,60" Tag="/Images/adults.jpg"/>
+            <Button Style="{StaticResource TypeButton}" Command="{Binding BipostoCommand}" Content="BIPOSTO" Tag="/Images/biposto.jpg"/>
+        </StackPanel>
+
+        <Grid Grid.Row="1" Margin="40">
+            <Button Content="Confirm" Width="130" Height="40" HorizontalAlignment="Left"/>
+            <Button Content="Cancel" Width="130" Height="40" HorizontalAlignment="Right" Command="{Binding CancelCommand}"/>
+        </Grid>
+    </Grid>
+</core:BasePage>

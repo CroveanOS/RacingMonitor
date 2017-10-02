@@ -1,0 +1,92 @@
+﻿<UserControl x:Class="RM.Terminal.KeyboardFull"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:RM.Terminal"
+             mc:Ignorable="d" >
+    <UserControl.Resources>
+        <!--Style for key buttons-->
+        <Style x:Key="KeyButton" TargetType="Button">
+            <Setter Property="Width" Value="65"/>
+            <Setter Property="Height" Value="65"/>
+            <Setter Property="Margin" Value="0,0,15,15"/>
+            <Setter Property="Button.Focusable" Value="False"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="8" BorderThickness="2" BorderBrush="{StaticResource MainColorBrush}">
+                            <Grid ClipToBounds="True">
+                                <DockPanel Name="myContentPresenterDockPanel">
+                                    <ContentPresenter x:Name="myContentPresenter"
+                                                      HorizontalAlignment="Center"
+                                                      VerticalAlignment="Center"
+                                                      Content="{TemplateBinding Content}"
+                                                      TextBlock.Foreground="{StaticResource TextColorBrush}" 
+                                                      TextBlock.FontSize="{StaticResource FontSizeLarge}"
+                                                      TextBlock.FontFamily="{StaticResource DefaultThin}"/>
+                                </DockPanel>
+                            </Grid>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+    <Border CornerRadius="8">
+        <Border.Background>
+            <SolidColorBrush Color="{StaticResource ControlBackgroundColor}" Opacity="0.12"/>
+        </Border.Background>
+        <Grid Name="keyboardGrid" Margin="60,30,60,15">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="MainTextBox" Width="785" Margin="0,0,0,20">
+                        <TextBox.BorderBrush>
+                            <SolidColorBrush Color="{StaticResource MainColor}"/>
+                        </TextBox.BorderBrush>
+                    </TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button Style="{StaticResource KeyButton}" Content="q" CommandParameter="q" Name="KeyBoardQ" />
+                    <Button Style="{StaticResource KeyButton}" Content="w" CommandParameter="w" Name="KeyBoardW" />
+                    <Button Style="{StaticResource KeyButton}" Content="e" CommandParameter="e" Name="KeyBoardE" />
+                    <Button Style="{StaticResource KeyButton}" Content="r" CommandParameter="r" Name="KeyBoardR" />
+                    <Button Style="{StaticResource KeyButton}" Content="t" CommandParameter="t" Name="KeyBoardT" />
+                    <Button Style="{StaticResource KeyButton}" Content="y" CommandParameter="y" Name="KeyBoardY" />
+                    <Button Style="{StaticResource KeyButton}" Content="u" CommandParameter="u" Name="KeyBoardU" />
+                    <Button Style="{StaticResource KeyButton}" Content="i" CommandParameter="i" Name="KeyBoardI" />
+                    <Button Style="{StaticResource KeyButton}" Content="o" CommandParameter="o" Name="KeyBoardO" />
+                    <Button Style="{StaticResource KeyButton}" Content="p" CommandParameter="p" Name="KeyBoardP" Margin="0,0,0,15"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="35,0,0,0">
+                    <Button Style="{StaticResource KeyButton}" Content="a" CommandParameter="a" Name="KeyBoardA" />
+                    <Button Style="{StaticResource KeyButton}" Content="s" CommandParameter="s" Name="KeyBoardS" />
+                    <Button Style="{StaticResource KeyButton}" Content="d" CommandParameter="d" Name="KeyBoardD" />
+                    <Button Style="{StaticResource KeyButton}" Content="f" CommandParameter="f" Name="KeyBoardF" />
+                    <Button Style="{StaticResource KeyButton}" Content="g" CommandParameter="g" Name="KeyBoardG" />
+                    <Button Style="{StaticResource KeyButton}" Content="h" CommandParameter="h" Name="KeyBoardH" />
+                    <Button Style="{StaticResource KeyButton}" Content="j" CommandParameter="j" Name="KeyBoardJ" />
+                    <Button Style="{StaticResource KeyButton}" Content="k" CommandParameter="k" Name="KeyBoardK" />
+                    <Button Style="{StaticResource KeyButton}" Content="l" CommandParameter="l" Name="KeyBoardL" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button Style="{StaticResource KeyButton}" Content="^" CommandParameter="SHIFT" Name="KeyBoardLeftShift" Width="85" Margin="0,0,30,15" Click="KeyBoardLeftShift_Click" />
+                    <Button Style="{StaticResource KeyButton}" Content="z" CommandParameter="z" Name="KeyBoardZ" />
+                    <Button Style="{StaticResource KeyButton}" Content="x" CommandParameter="x" Name="KeyBoardX" />
+                    <Button Style="{StaticResource KeyButton}" Content="c" CommandParameter="c" Name="KeyBoardC" />
+                    <Button Style="{StaticResource KeyButton}" Content="v" CommandParameter="v" Name="KeyBoardV" />
+                    <Button Style="{StaticResource KeyButton}" Content="b" CommandParameter="b" Name="KeyBoardB" />
+                    <Button Style="{StaticResource KeyButton}" Content="n" CommandParameter="n" Name="KeyBoardN" />
+                    <Button Style="{StaticResource KeyButton}" Content="m" CommandParameter="m" Name="KeyBoardM" />
+                    <Button Style="{StaticResource KeyButton}" Content="&lt;" CommandParameter="BACKSPACE" Name="KeyBoardBackspace" Width="95" Margin="15,0,0,15" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button Style="{StaticResource KeyButton}" Content="123" CommandParameter="SHIFT" Name="KeyBoardNumbers" Width="85" Margin="0,0,10,15" />
+                    <Button Style="{StaticResource KeyButton}" Content="@" CommandParameter="@" Name="KeyboardAron" Width="85" Margin="0,0,15,15" />
+                    <Button Style="{StaticResource KeyButton}" Content="" CommandParameter=" " Width="385" Name="KeyBoardSpace"/>
+                    <Button Style="{StaticResource KeyButton}" Content="OK" CommandParameter="" Width="190" Name="KeyBoardOk" Click="KeyBoardHide_Click" Margin="0,0,0,15" />
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </Border>
+</UserControl>

@@ -1,0 +1,19 @@
+﻿<core:BasePage x:Class="RM.Terminal.IdlePage" x:TypeArguments="local:IdleViewModel"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:RM.Terminal"
+      xmlns:core="clr-namespace:RM.Core;assembly=RM.Core"
+      mc:Ignorable="d" d:DesignWidth="1920" d:DesignHeight="1080">
+
+    <Grid>
+        <StackPanel x:Name="MainBlock" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Style="{StaticResource TitleTextBlock}" Margin="0,0,0,100">
+                <Run Text="RACING" Foreground="{StaticResource FirstLogoColorBrush}"/><Run Text="MONITOR" Foreground="{StaticResource SecondLogoColorBrush}"/>
+            </TextBlock>
+            <Button Content="Tap Here" IsEnabled="{Binding TCP.Connected}" Command="{Binding StartCommand}"/>
+        </StackPanel>
+        <Rectangle Margin="30,0,0,20" Width="15" Height="15" Fill="{Binding TcpConnectedIndicator}" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
+    </Grid>
+</core:BasePage>

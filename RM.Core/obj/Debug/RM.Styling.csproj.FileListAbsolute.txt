@@ -1,0 +1,45 @@
+E:\Projects\C#\RacingMonitor\RM.Styling\bin\Debug\RM.Styling.dll
+E:\Projects\C#\RacingMonitor\RM.Styling\bin\Debug\RM.Styling.pdb
+E:\Projects\C#\RacingMonitor\RM.Styling\bin\Debug\MahApps.Metro.dll
+E:\Projects\C#\RacingMonitor\RM.Styling\bin\Debug\System.Windows.Interactivity.dll
+E:\Projects\C#\RacingMonitor\RM.Styling\bin\Debug\MahApps.Metro.pdb
+E:\Projects\C#\RacingMonitor\RM.Styling\bin\Debug\MahApps.Metro.xml
+E:\Projects\C#\RacingMonitor\RM.Styling\obj\Debug\RM.Styling.csprojResolveAssemblyReference.cache
+E:\Projects\C#\RacingMonitor\RM.Styling\obj\Debug\Controls\ComboBox.baml
+E:\Projects\C#\RacingMonitor\RM.Styling\obj\Debug\Controls\TextBox.baml
+E:\Projects\C#\RacingMonitor\RM.Styling\obj\Debug\Controls\Global.baml
+E:\Projects\C#\RacingMonitor\RM.Styling\obj\Debug\Controls\Texts.baml
+E:\Projects\C#\RacingMonitor\RM.Styling\obj\Debug\Styles\Colors.baml
+E:\Projects\C#\RacingMonitor\RM.Styling\obj\Debug\Styles\Fonts.baml
+E:\Projects\C#\RacingMonitor\RM.Styling\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\C#\RacingMonitor\RM.Styling\obj\Debug\RM.Styling_MarkupCompile.cache
+E:\Projects\C#\RacingMonitor\RM.Styling\obj\Debug\RM.Styling_MarkupCompile.lref
+E:\Projects\C#\RacingMonitor\RM.Styling\obj\Debug\Controls\Buttons.baml
+E:\Projects\C#\RacingMonitor\RM.Styling\obj\Debug\RM.Styling.g.resources
+E:\Projects\C#\RacingMonitor\RM.Styling\obj\Debug\RM.Styling.dll
+E:\Projects\C#\RacingMonitor\RM.Styling\obj\Debug\RM.Styling.pdb
+E:\Projects\C#\RacingMonitor\RM.Styling\obj\Debug\Controls\Slider.baml
+E:\Projects\C#\RacingMonitor\RM.Styling\bin\Debug\Ninject.dll
+E:\Projects\C#\RacingMonitor\RM.Styling\bin\Debug\Ninject.xml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\bin\Debug\RM.Styling.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\bin\Debug\RM.Styling.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\bin\Debug\MahApps.Metro.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\bin\Debug\Ninject.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\bin\Debug\System.Windows.Interactivity.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\bin\Debug\MahApps.Metro.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\bin\Debug\MahApps.Metro.xml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\bin\Debug\Ninject.xml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\obj\Debug\Controls\ComboBox.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\obj\Debug\Controls\TextBox.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\obj\Debug\Controls\Global.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\obj\Debug\Controls\Texts.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\obj\Debug\Styles\Colors.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\obj\Debug\Styles\Fonts.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\obj\Debug\RM.Styling_MarkupCompile.cache
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\obj\Debug\RM.Styling_MarkupCompile.lref
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\obj\Debug\Controls\Slider.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\obj\Debug\Controls\Buttons.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\obj\Debug\RM.Styling.g.resources
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\obj\Debug\RM.Styling.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\RM.Styling\obj\Debug\RM.Styling.pdb

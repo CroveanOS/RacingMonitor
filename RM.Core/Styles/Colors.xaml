@@ -1,0 +1,22 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Color x:Key="MainColor">#ff1744</Color>
+    <SolidColorBrush x:Key="MainColorBrush" Color="{StaticResource MainColor}"/>
+
+    <Color x:Key="BorderColor">#dbd8d7</Color>
+    <SolidColorBrush x:Key="BorderColorBrush" Color="{StaticResource BorderColor}"/>
+
+    <Color x:Key="TextColor">#ffffff</Color>
+    <SolidColorBrush x:Key="TextColorBrush" Color="{StaticResource TextColor}"/>
+
+    <Color x:Key="FirstLogoColor">#e7e7e7</Color>
+    <SolidColorBrush x:Key="FirstLogoColorBrush" Color="{StaticResource FirstLogoColor}"/>
+
+    <Color x:Key="SecondLogoColor">#ff1744</Color>
+    <SolidColorBrush x:Key="SecondLogoColorBrush" Color="{StaticResource SecondLogoColor}"/>
+
+    <Color x:Key="ControlBackgroundColor">#ffffff</Color>
+    <SolidColorBrush x:Key="ControlBackgroundColorBrush" Color="{StaticResource ControlBackgroundColor}"/>
+
+</ResourceDictionary>

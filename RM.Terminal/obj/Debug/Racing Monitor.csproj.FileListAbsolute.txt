@@ -1,0 +1,238 @@
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\bin\Debug\Racing Monitor.exe.config
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\bin\Debug\Racing Monitor.exe
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\bin\Debug\Racing Monitor.pdb
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\App.g.cs
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\Racing Monitor_MarkupCompile.cache
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\Racing Monitor_MarkupCompile.lref
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\Racing Monitor.g.resources
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\Racing_Monitor.Properties.Resources.resources
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\Racing Monitor.csproj.GenerateResource.Cache
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\Racing Monitor.exe
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\Racing Monitor.pdb
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\App.baml
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\AdminLogin.g.cs
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\AdminLogin.baml
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\CourseWindow.g.cs
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\CourseWindow.baml
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\bin\Debug\Npgsql.dll
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\bin\Debug\Npgsql.xml
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\SettingsWindow.g.cs
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\SettingsWindow.baml
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\Racing Monitor.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\PageSwitcher.g.cs
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\PageSwitcher.baml
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\Pages\Login.baml
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\Pages\Main.baml
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\Pages\Login.g.cs
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\Pages\Main.g.cs
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\bin\Debug\RM Server.exe
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\bin\Debug\RM Server.pdb
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\bin\Debug\RM Server.exe.config
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\bin\Debug\System.Data.SQLite.dll.config
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.dll
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.pdb
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\Register.g.cs
+D:\Visual Studio\Racing Monitor\Racing Monitor\Racing Monitor\obj\Debug\Register.baml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\Racing Monitor.exe.config
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\Racing Monitor.exe
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\Racing Monitor.pdb
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\Npgsql.dll
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\RM Server.exe
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.dll
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\System.Data.SQLite.dll
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\RM Server.pdb
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\RM Server.exe.config
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\Npgsql.xml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.pdb
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\System.Data.SQLite.xml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\System.Data.SQLite.dll.config
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.csprojResolveAssemblyReference.cache
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\App.g.cs
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor_MarkupCompile.cache
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor_MarkupCompile.lref
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\App.baml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.g.resources
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Racing_Monitor.Properties.Resources.resources
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.csproj.GenerateResource.Cache
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.exe
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.pdb
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\rmdb
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Extra.dll
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.dll
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\System.Windows.Interactivity.dll
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.pdb
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.xml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.IconPacks.xml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\Register.baml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\AdminLogin.g.cs
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\CourseWindow.g.cs
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\LoginWindow.g.cs
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\MainWindow.g.cs
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\Register.g.cs
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\SettingsWindow.g.cs
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\AdminLogin.baml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\CourseWindow.baml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\LoginWindow.baml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\MainWindow.baml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\SettingsWindow.baml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Styles\Buttons.baml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Styles\Text.baml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Styles\Colors.baml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Styles\Fonts.baml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\log4net.dll
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\log4net.xml
+E:\Projects\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Styles\Global.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\rmdb
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\Racing Monitor.exe.config
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\Racing Monitor.exe
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\Racing Monitor.pdb
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\log4net.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Extra.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\Npgsql.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\RM Server.exe
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\System.Windows.Interactivity.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\System.Data.SQLite.dll
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\RM Server.pdb
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\RM Server.exe.config
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\log4net.xml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.pdb
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.xml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.IconPacks.xml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\Npgsql.xml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.pdb
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\System.Data.SQLite.xml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\bin\Debug\System.Data.SQLite.dll.config
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.csprojResolveAssemblyReference.cache
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\Register.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Styles\Buttons.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Styles\Colors.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Styles\Fonts.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Styles\Text.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\App.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\AdminLogin.g.cs
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\CourseWindow.g.cs
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\LoginWindow.g.cs
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\MainWindow.g.cs
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\Register.g.cs
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\SettingsWindow.g.cs
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\App.g.cs
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor_MarkupCompile.cache
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor_MarkupCompile.lref
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\AdminLogin.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\CourseWindow.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\LoginWindow.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\MainWindow.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\SettingsWindow.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Styles\Global.baml
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.g.resources
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Racing_Monitor.Properties.Resources.resources
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.csproj.GenerateResource.Cache
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.exe
+E:\crazykart\Racing Monitor\Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\rmdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\Racing Monitor.exe.config
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\Racing Monitor.exe
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\Racing Monitor.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\log4net.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Extra.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\Npgsql.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\RM Server.exe
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\System.Windows.Interactivity.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\RM Server.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\RM Server.exe.config
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\log4net.xml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.xml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\Npgsql.xml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\System.Data.SQLite.dll.config
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\LoginWindow.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\Register.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\App.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\AdminLogin.g.cs
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\LoginWindow.g.cs
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\MainWindow.g.cs
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\Register.g.cs
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\App.g.cs
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor_MarkupCompile.cache
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor_MarkupCompile.lref
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\AdminLogin.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Forms\MainWindow.baml
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.g.resources
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Racing_Monitor.Properties.Resources.resources
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.csproj.GenerateResource.Cache
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.exe
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\rmdb
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\Racing Monitor.exe.config
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\Racing Monitor.exe
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\Racing Monitor.pdb
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\log4net.dll
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Extra.dll
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.dll
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\Npgsql.dll
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\RM Server.exe
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.dll
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\System.Data.SQLite.dll
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\RM Server.pdb
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\RM Server.exe.config
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\log4net.xml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.pdb
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.xml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\Npgsql.xml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.pdb
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\System.Data.SQLite.xml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Forms\LoginWindow.baml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Forms\Register.baml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Styles\Buttons.baml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Styles\Colors.baml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Styles\Fonts.baml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Styles\Text.baml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\App.baml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Forms\AdminLogin.g.cs
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Forms\CourseWindow.g.cs
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Forms\LoginWindow.g.cs
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Forms\MainWindow.g.cs
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Forms\Register.g.cs
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Forms\SettingsWindow.g.cs
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\App.g.cs
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor_MarkupCompile.cache
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor_MarkupCompile.lref
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Forms\AdminLogin.baml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Forms\CourseWindow.baml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Forms\MainWindow.baml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Forms\SettingsWindow.baml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Styles\Global.baml
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.g.resources
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Racing_Monitor.Properties.Resources.resources
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.csproj.GenerateResource.Cache
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.exe
+C:\Users\max\Desktop\RacingMonitor\Racing Monitor\obj\Debug\Racing Monitor.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\RM.Styling.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\RM.Styling.pdb
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Visual Studio\Personal-Project\Personal-Project\RacingMonitor\Racing Monitor\bin\Debug\System.Threading.Tasks.Extensions.xml
